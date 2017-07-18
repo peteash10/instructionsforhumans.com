@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Reading List
-permalink: /workshops/
+permalink: /references/
 category: menu
 ---
 
-# Reading for Humans
-
 This work is the culmination of three year's research and is informed by countless books, articles, talks and conversations. This is my attempt to account for them all. 
+
+## Articles
+
+Currently stored under [this Pinboard tag](https://pinboard.in/u:peteashton/t:ifh/) and will be sorted more effectively over the months. 
 
 ## Books
 
