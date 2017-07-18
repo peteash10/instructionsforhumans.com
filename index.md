@@ -8,7 +8,7 @@ category: menu
 
 # Instructions for Humans - A Cargo Cult for Artificial Intelligence
 
-A major new work exploring human interactions with machine learning, centred around an exhibition at [Birmingham Open Media](http://bom.org.uk) from September to December 2017. Funded by [Arts Council England](http://artscouncil.org.uk/), the work will be available for touring from 2018. 
+A major new work by [Pete Ashton](http://art.peteashton.com/) exploring human interactions with machine learning, centred around an exhibition at [Birmingham Open Media](http://bom.org.uk) from September to December 2017. Funded by [Arts Council England](http://artscouncil.org.uk/), the work will be available for touring from 2018. 
 
 
 # Project Summary
