@@ -23,3 +23,19 @@ Man says the camera on a billboard will be the modern equiv of the clockface on 
 Man talks about dead streets that are on maps but don't go anywhere. Pete talks about [Andy Howlett](http://andyhowlett.co.uk)'s walk where he followed paths that abruptly stop. 
 
 
+How do you hold on to and manipulate data? I'll step into the shoes of the processor and see what happens. I'm interested how these machines can change our perception of the world. Is google editing my work? Where is the authorship when google chooses keywords to match photos?
+
+Man asks how do you see this kind of thing evolving. Pete talks about the performance artists. Says he's disillusioned with using photography but is still into cameras. He's thinking about gestures and the relationship between humans and machines. I have no performance art background. Thinking about getting into the city and out of the gallery. How does the city hold itself together, what are the rules and compromises we have in society. Addressing those by behaving in different ways. Pete’s looking to do a collaborative thing.
+
+Man says Pete is making links between the idea of ritual of the citizen and how behaviour is influenced by AI.
+
+SEO fascinates me. It's like praying for rain. Talks about the spotify song skipping myth. Computer systems are rational but so complex as to seem magical. It just works.
+
+Man says there's been a shift from late analogue tech to modern tech encased in a black box. You can't fix/repair tech anymore. Pete says people in china can build and fix iPhones but Apple want to promote the myth of magic. 
+
+Pete talks about machine learning. Simple maths on a massive scale. Data goes in, potentially useful data comes out. Pete uses ants behaviour as an analogy, simple but complex. The main ingredient is processing power.
+
+This is my art, explaining things to people.
+
+
+
