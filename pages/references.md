@@ -2,7 +2,7 @@
 layout: page
 title: Reading List
 permalink: /references/
-category: menu
+## category: menu
 ---
 
 This work is the culmination of three year's research and is informed by countless books, articles, talks and conversations. This is my attempt to account for them all. 
