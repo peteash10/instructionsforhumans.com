@@ -7,14 +7,15 @@ category: menu
 
 # Instructions for Humans - A Cargo Cult for Artificial Intelligence
 
+![](http://instructionsforhumans.com/images/ighlogo.png)
 
-Instructions for Humans is a new body of work by artist Pete Ashton, anchored on an exhibtion at [BOM (Birmingham Open Media)](http://bom.org.uk) in the centre of Birmingham, a city in the centre of Britain, a country in the North West of Europe. 
+Instructions for Humans is a new body of work by artist [Pete Ashton](http://art.peteashton.com), anchored on an exhibtion at [BOM (Birmingham Open Media)](http://bom.org.uk) in the centre of Birmingham, a city in the centre of Britain, a country in the North West of Europe. 
 
 The exhibition runs from September 12th to December 16th 2017 and is open Wednesday to Saturday, 12-5pm.
 
-Alongside three interactive works by Ashton, Nye Thompson and Kyle Macdonald, Ashton is resident in the gallery during opening hours devising new work in reponse to emerging issues in surveillance, data collection and artificial intelligence. 
+Ashton is resident in the gallery during opening hours devising new work in reponse to emerging issues in surveillance, data collection and artificial intelligence. The show also features three interactive works by [Nye Thompson](http://www.backdoored.io), [Kyle Macdonald](http://www.exhaustingacrowd.com/birmingham) and Ashton.
 
-The work is a contantly envolving exercise that currently resists easy definition. It's a research project, a performance, a residency, an educational resource, a series of collabortions, a production line, and many other things no doubt.
+The work is a contantly envolving exercise that currently resists easy definition. It's a research project, a performance, a residency, an educational resource, a series of collabortions, a production line, and many other things no doubt. This is deliberate.
 
 Primarly the work about meaning in a world where truth and reason feels twisted by forces we don't understand. It joins the search to make 
 
