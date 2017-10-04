@@ -2,7 +2,7 @@
 layout: page
 title: Conversation Transcriptions
 permalink: /transcriptions/
-category: menu
+## category: menu
 ---
 
 While talking to people in the gallery I'm trying to remember to record my side of the conversation with a lapel mic. This surveillance is intended to augment my terrible memory and is being transcribed / described by Karen Cameron who is on a mission to understand what the hell I'm doing.
