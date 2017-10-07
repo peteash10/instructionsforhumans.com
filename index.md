@@ -17,7 +17,7 @@ Ashton is resident in the gallery during opening hours devising new work in repo
 
 The work is a contantly envolving exercise that currently resists easy definition. It's a research project, a performance, a residency, an educational resource, a series of collabortions, a production line, and many other things no doubt. This is deliberate.
 
-Primarly the work about meaning in a world where truth and reason feels twisted by forces we don't understand. It joins the search to make 
+Primarly the work is about meaning in a world where truth and reason feels twisted by forces we don't understand. It joins the search to make 
 
 This website serves to collate and present the work, documentation of the work and work about the documentation of the work.
 
