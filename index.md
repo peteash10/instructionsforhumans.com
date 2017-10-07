@@ -25,7 +25,11 @@ This website serves to collate and present the work, documentation of the work a
 
 This Saturday at 12:30 you are invited to help Pete and Andy Howlett devise their next [Cross City Walk](http://xcw.org.uk​​). Come to BOM at 12:30 with ideas on how to document this straight line across Birmingham. 
 
-The walk itself is on Sunday 8th from 12:00pm, starting somewhere on the Outer Circle bus route. If you would like to know where, email pete@peteashton.com and he'll let you know. 
+The walk itself is on Sunday 8th from 12:00pm, starting outside Sarehole Mill on the Outer Circle bus route. [Here is a map.](http://www.openstreetmap.org/?mlat=52.43407&mlon=-1.85600#map=18/52.43407/-1.85600) We will finish roughly [here](http://www.openstreetmap.org/?mlat=52.4777&mlon=-1.8152#map=15/52.4777/-1.8152).
+
+**All are welcome** to join and help us document this strip of the city. Email pete@peteashton.com for details more. 
+
+<hr>
 
 
 
