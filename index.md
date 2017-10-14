@@ -52,4 +52,4 @@ Accepting state funding for art, particularly that which is explicitly funnelled
 
 Arts Council money was 10% match-funded with earnings from work related to this show, such as workshops and talks. A small inheritance subsidised the year spent preparing for this work. My family provides an implicit the safety net in case it all goes horribly wrong. 
 
-I say all this to emphasise that making art in our society is a privilege not available to all, which is why so many artists are white and middle class. This is wrong. We should all have the opportunity to be artists and to use our humanity for more than earning coin. 
+I say all this to emphasise that making art in our society is a privilege not available to all, which is why so many artists are white and (upper)middle class. This is wrong. We should all have the opportunity to be artists and to use our humanity for more than earning coin. 
