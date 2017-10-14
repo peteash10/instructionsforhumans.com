@@ -29,7 +29,7 @@ Daily diary on [blog.peteashton.com](http://blog.peteashton.com)
 
 # Events
 
-There will be numerous public events during the show. These are all listed on the Events for Humans page.
+There will be numerous public events during the show. These are all listed on the [Events for Humans](http://instructionsforhumans.com/events/) page.
 
 
 
