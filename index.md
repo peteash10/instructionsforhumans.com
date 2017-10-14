@@ -27,15 +27,9 @@ Daily diary on [blog.peteashton.com](http://blog.peteashton.com)
 
 [Weekly-ish newsletter](http://tinyletter.com/peteashton/archive). [Subscribe here](https://tinyletter.com/peteashton).
 
-# Event
+# Events
 
-### Tuesday 7th November
-
-Emily Warner and Aleks Wojtulewicz will be performing new works devised with Pete Ashton as part of Instructions for Humans. The works will be devised during October - more details will be announced as they are worked out!
-
-The performance will be free to attend but booking will be essential. Please [subscribe to the newsletter](https://tinyletter.com/peteashton) to be informed when tickets are available. 
-
-<hr>
+There will be numerous public events during the show. These are all listed on the Events for Humans page.
 
 
 
