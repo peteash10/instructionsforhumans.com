@@ -42,12 +42,14 @@ This work is the culmination of many years research and thinking about cameras, 
 
 Art does not emerge from a vacuum. In order to make work in a late-capitalist economy one requires cash. 
 
-Instructions for Humans was commissioned by BOM (Birmingham Open Media) who paid me an exhibition fee of £700.
+Instructions for Humans was commissioned by [BOM (Birmingham Open Media)](http://bom.org.uk) who paid me an exhibition fee of £700.
 
-I applied for a Grant for the Arts from the Arts Council, a fund anyone can apply for, and was awarded £13,420 to cover the development and presentation of the work. A requirement of this award is to display their logo on this page, so here it is. 
+I applied for a [Grant for the Arts](http://www.artscouncil.org.uk/funding/grants-arts) from the Arts Council, a fund anyone can apply for, and was awarded £13,420 to cover the development and presentation of the work. A requirement of this award is to display their logo, which I am happy to do. 
 
 [![](http://art.peteashton.com/assets/images/lottery_Logo_Black_RGB_smaller.jpg)](http://artscouncil.org.uk/)
 
 Accepting state funding for art, particularly that which is explicitly funnelled from gambling, brings a swathe of responsibilities and considerations which I take seriously. While "value for money" is never a useful metric to judge anything by, I respect and honour the opportunities this award has given me. 
 
-Arts Council money was 10% match-funded with personal savings and earnings from work related to this show. A small inheritance subsidised the year spent preparing for this work. My wife provided the safety net in case it all went horribly wrong. I say all this to emphasise that making art in our society is a privilige not available to all, which is why so many artists are white and middle class. This is wrong. We should all have the opportunity to be artists and to use our humanity for more than earning coin. 
+Arts Council money was 10% match-funded with earnings from work related to this show, such as workshops and talks. A small inheritance subsidised the year spent preparing for this work. My family provides an implicit the safety net in case it all goes horribly wrong. 
+
+I say all this to emphasise that making art in our society is a privilege not available to all, which is why so many artists are white and middle class. This is wrong. We should all have the opportunity to be artists and to use our humanity for more than earning coin. 
