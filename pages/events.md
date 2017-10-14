@@ -5,7 +5,7 @@ permalink: /events/
 category: menu
 ---
 
-To stay informed and be reminded of events happening for Instructions For Humans, and many other things besides, you best off [subscribing to Pete's newsletter](https://tinyletter.com/peteashton).
+To stay informed and be reminded of events happening for Instructions For Humans, and many other things besides, you're best off [subscribing to Pete's newsletter](https://tinyletter.com/peteashton).
 
 ## November 1-4
 
