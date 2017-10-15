@@ -2,7 +2,7 @@
 layout: page
 title: Reading List
 permalink: /references/
-## category: menu
+category: menu
 ---
 
 ![](http://instructionsforhumans.com/images/bookshelf.jpg)

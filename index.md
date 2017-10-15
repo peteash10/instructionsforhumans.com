@@ -2,7 +2,7 @@
 layout: homepage
 title: Home
 permalink: /
-category: menu
+## category: menu
 ---
 
 # Instructions for Humans - A Cargo Cult for Artificial Intelligence
