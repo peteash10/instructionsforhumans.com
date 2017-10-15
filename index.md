@@ -9,7 +9,9 @@ category: menu
 
 ![](http://instructionsforhumans.com/images/ifhlogo.png)
 
-Instructions for Humans is a new body of work by artist [Pete Ashton](http://art.peteashton.com), anchored on an exhibition at [BOM (Birmingham Open Media)](http://bom.org.uk) in the centre of Birmingham, a city in the centre of Britain, a country in the North West of Europe. 
+Instructions for Humans is a new body of work by artist [Pete Ashton](http://art.peteashton.com) exploring human interactions with the massive, opaque systems that mediate our experience of the world and inform our understanding. The focus is on contemporary data surveillance through machine learning systems, using them as a framework to explore how systems of control can be abused by agents of power. 
+
+It is anchored on an exhibition at [BOM (Birmingham Open Media)](http://bom.org.uk) in the centre of Birmingham, a city in the centre of Britain, a country in the North West of Europe. 
 
 The exhibition runs from September 12th to December 16th 2017 and is open Wednesday to Saturday, 12-5pm.
 
@@ -17,7 +19,7 @@ Ashton is resident in the gallery during opening hours devising new work in resp
 
 The work is a constantly evolving exercise that currently resists easy definition. It's a research project, a performance, a residency, an educational resource, a series of collaborations, a production line, and many other things no doubt. This is deliberate.
 
-Primarily the work is about meaning in a world where truth and reason feels twisted by forces we don't understand. It joins the search to make 
+Primarily the work is about meaning in a world where truth and reason feels twisted by forces we don't understand. 
 
 This website serves to collate and present the work, documentation of the work and work about the documentation of the work.
 
@@ -52,4 +54,4 @@ Accepting state funding for art, particularly that which is explicitly funnelled
 
 Arts Council money was 10% match-funded with earnings from work related to this show, such as workshops and talks. A small inheritance subsidised the year spent preparing for this work. My family provides an implicit the safety net in case it all goes horribly wrong. 
 
-I say all this to emphasise that making art in our society is a privilege not available to all, which is why so many artists are white and (upper)middle class. This is wrong. We should all have the opportunity to be artists and to use our humanity for more than earning coin. 
+I say all this to emphasise that access to the ability to make art is a privilege not available to all in our society, which is why so many artists are white and (upper)middle class. This is wrong. We should all have the right to be artists and to use our humanity for more than earning coin. 
