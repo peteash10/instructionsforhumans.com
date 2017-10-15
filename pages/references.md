@@ -5,6 +5,8 @@ permalink: /references/
 ## category: menu
 ---
 
+![](http://instructionsforhumans.com/images/bookshelf.jpg)
+
 This work is the culmination of three year's research and is informed by countless books, articles, talks and conversations. 
 
 ## Articles

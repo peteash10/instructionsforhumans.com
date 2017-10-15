@@ -19,15 +19,15 @@ Ashton is resident in the gallery during opening hours devising new work in resp
 
 The work is a constantly evolving exercise that currently resists easy definition. It's a research project, a performance, a residency, an educational resource, a series of collaborations, a production line, and many other things no doubt. This is deliberate.
 
-Primarily the work is about meaning in a world where truth and reason feels twisted by forces we don't understand. 
+Primarily the work is about meaning in a world where truth and reason feel twisted by forces we don't understand. 
 
 This website serves to collate and present the work, documentation of the work and work about the documentation of the work.
 
 # Documentation
 
-Daily diary on [blog.peteashton.com](http://blog.peteashton.com)
-
-[Weekly-ish newsletter](http://tinyletter.com/peteashton/archive). [Subscribe here](https://tinyletter.com/peteashton).
+- [Daily diary on blog.peteashton.com](http://blog.peteashton.com)
+- [Weekly-ish newsletter](http://tinyletter.com/peteashton/archive). [Subscribe here](https://tinyletter.com/peteashton).
+- [Photo documentation is currently in this Dropbox folder.](https://www.dropbox.com/sh/vcfeb5lrmk1qq8b/AADeQ77eDGeF3aayP3SZsmMQa?dl=0)
 
 # Events
 
@@ -39,6 +39,8 @@ This work is the culmination of many years research and thinking about cameras, 
 
 - [Articles of interest are bookmarked on this Pinboard tag](https://pinboard.in/u:peteashton/t:ifh/). 
 - [Books of interest are on this page.](http://instructionsforhumans.com/references/)
+
+All books are available to browse in the gallery. Some articles are also printed out for reading. 
 
 # Funding
 
