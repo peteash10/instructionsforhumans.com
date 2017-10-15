@@ -7,9 +7,9 @@ category: menu
 
 # Instructions for Humans - A Cargo Cult for Artificial Intelligence
 
-![](http://instructionsforhumans.com/images/ifhlogo.png)
-
 Instructions for Humans is a new body of work by artist [Pete Ashton](http://art.peteashton.com) exploring human interactions with the massive, opaque systems that mediate our experience of the world and inform our understanding. The focus is on contemporary data surveillance through machine learning systems, using them as a framework to explore how systems of control can be abused by agents of power. 
+
+![](http://instructionsforhumans.com/images/ifhlogo.png)
 
 It is anchored on an exhibition at [BOM (Birmingham Open Media)](http://bom.org.uk) in the centre of Birmingham, a city in the centre of Britain, a country in the North West of Europe. 
 
