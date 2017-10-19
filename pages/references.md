@@ -82,6 +82,8 @@ Martin Lister - [The Photographic Image in Digital Culture](http://amzn.to/2gFoS
 
 John Durham Peters - [The Marvellous Clouds: Toward a Philosophy of Elemental Media](http://amzn.to/2uziONx)
 
+Timothy Snyder - [On Tyrany - 20 Lessons From The 20th Century](http://amzn.to/2kZPFIl)
+
 David Stubbs - [Fear of Music - Why people get Rothko but don't get Stockhausen](http://amzn.to/2xHFVIm)
 
 Robert Anton Wilson - [Cosmic Trigger](http://amzn.to/2tmium5)
