@@ -43,7 +43,7 @@ The very final week will wrap everything up in a nice tidy box, put a ribbon on 
 
 *November 15-18*
 
-Probably on online privacy, culminating in a drop-in data detox surgery run with [Fiona Cullinan](http://fionacullinan.com/projects/infosecurity/) using materials from [The Glass Room](https://theglassroom.org).
+Privacy, data security, what is it, should we worry about it? Culminating in a drop-in data detox surgery run with [Fiona Cullinan](http://fionacullinan.com/projects/infosecurity/) using materials from [The Glass Room](https://theglassroom.org).
 
 ## Week 2
 
