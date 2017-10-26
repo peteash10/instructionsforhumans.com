@@ -23,6 +23,8 @@ Will be used for a ritual event on Saturday 9th December by [Hipkiss and Graney]
 
 [![](http://instructionsforhumans.com/images/puerto-rico-celltower.jpg)](https://www.theatlantic.com/photo/2017/09/disconnected-by-disasterphotos-from-a-battered-puerto-rico/540975/#img08)
 
+![](http://instructionsforhumans.com/images/celltower3.jpg)
+
 
 ## Transcripts of Humans
 
