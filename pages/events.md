@@ -61,7 +61,7 @@ Probably on the politics of it all. Kate Crawford's talk [Dark Days: AI and the 
 
 *December 6-9*
 
-Something about rituals. Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk psychogeography-eque strategies for breaking/creating rules of engaging with the world. [Andy Howlett](http://andyhowlett.co.uk) will be involved and there will be explorations of the city. Hopefully I'll get [Hipkiss and Graney](https://www.hipkissandgraney.com) on board to do a ritual for the wooden cell tower I'll have built by then.
+Something about rituals. Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. [Andy Howlett](http://andyhowlett.co.uk) will be involved and there will be explorations of the city. Hopefully I'll get [Hipkiss and Graney](https://www.hipkissandgraney.com) on board to do a ritual for the wooden cell tower I'll have built by then.
 
 ## Week 5
 
