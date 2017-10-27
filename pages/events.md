@@ -43,13 +43,30 @@ The very final week will wrap everything up in a nice tidy box, put a ribbon on 
 
 *November 15-18*
 
-Privacy, data security, what is it, should we worry about it? Culminating in a drop-in data detox surgery run with [Fiona Cullinan](http://fionacullinan.com/projects/infosecurity/) using materials from [The Glass Room](https://theglassroom.org).
+### Data Detox
+
+![](http://instructionsforhumans.com/images/datadetox.jpg)
+
+Privacy, data security, what is it, should we worry about it? Is it possible to fight against the excesses of [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism) or is it just as effective to bury one's head in the sand? 
+
+**All Week:** Crossing over with [QTOPIA](http://www.bom.org.uk/event/qtopia/) in the adjoining room, I'll be showcasing some artistic and creative strategies for obsfucating your personal activity from The Network and trying a few things out on myself. 
+
+**Saturday:** [Fiona Cullinan](http://fionacullinan.com/projects/infosecurity/), just back from [The Glass Room](https://theglassroom.org) show in London, will be running a free drop-in Data Detox surgery in the gallery from 1-3pm to answer your questions and point you in the right direction. [More details here.](http://www.bom.org.uk/event/data-detox-surgery/) 
 
 ## Week 2
 
 *November 22-25*
 
-Something about the purpose of art in all this. How do we make art about data? How can we think of [data as an artistic material](http://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01414)? Are we talking about the numbers, or what the numbers represent, or what created the numbers? What is data anyway? Culminating in an existential breakdown, sorry, in a panel or group discussion with interested parties. 
+### Data and Art
+
+![](http://instructionsforhumans.com/images/kruse1-1.jpg)
+
+
+How do we make art about data? How can we think of [data as an artistic material](http://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01414)? Are we talking about the numbers, or what the numbers represent, or what created the numbers? What is data anyway? 
+
+**All Week:** [Susan Kruse's Drawing Apparatuses](http://instructionsforhumans.com/kruse/) will be available for you to borrow and carry around the city as they draw a record of your movement. These generated artworks will be displayed in the gallery and posted to you later. [More details here.](http://instructionsforhumans.com/kruse/) 
+
+**Saturday:** I'll be inviting three data artists to be in the gallery with me to show and talk about their work. At the end of the day there'll be an informal talk/seminar/discussion with beverages aimed at artists working with, or thinking about working with, data and information. 
 
 ## Week 3
 
@@ -61,7 +78,7 @@ Probably on the politics of it all. Kate Crawford's talk [Dark Days: AI and the 
 
 *December 6-9*
 
-Something about rituals. Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. [Andy Howlett](http://andyhowlett.co.uk) will be involved and there will be explorations of the city. Hopefully I'll get [Hipkiss and Graney](https://www.hipkissandgraney.com) on board to do a ritual for the wooden cell tower I'll have built by then.
+Something about rituals. Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. [Andy Howlett](http://andyhowlett.co.uk) will be involved and there will be explorations of the city. Hopefully I'll get [Hipkiss and Graney](https://www.hipkissandgraney.com) on board to do a ritual for the [wooden cell tower](http://instructionsforhumans.com/works/) I've built.
 
 ## Week 5
 
