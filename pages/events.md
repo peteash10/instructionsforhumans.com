@@ -17,19 +17,17 @@ To stay informed and be reminded of events happening for Instructions For Humans
 
 **Data Cult: An Instructional Event For Humans**
 
-[Emily Warner](https://emily-warner.com) and [Aleks Wojtulewicz](http://a-w-a.co.uk) will be performing new works devised with Pete Ashton as part of Instructions for Humans. The works will be developed during October - more details will be announced as they are worked out!
+[Emily Warner](https://emily-warner.com) and [Aleks Wojtulewicz](http://a-w-a.co.uk) will be performing new works devised with Pete Ashton as part of Instructions for Humans. 
 
 The performances will be free to attend but booking will be essential. 
 
 **[Book tickets here.](https://www.eventbrite.co.uk/e/data-cult-an-instructional-event-for-humans-tickets-39044827129)**
 
+Development blog posts: [one](http://blog.peteashton.com/art/2017/11/02/ifh029/) 
+
 ## November 9-11 / 15-18
 
 [QTOPIA](http://www.bom.org.uk/event/qtopia/) by [Leo Francisco](http://queerzone3000.net/) will be installed at BOM for the [SHOUT festival](http://www.shoutfestival.co.uk/whats-on/all-shows/shout-17-qtopia-leo-francisco/). While distinct from Instructions for Humans it shares similar themes and we have plans to bleed the two shows together somehow. 
-
-## Sunday November 19th
-
-I will be speaking at the [Random String](http://randomstring.co) mini-conference at [Warwick Arts Centre](https://www.warwickartscentre.co.uk) about Instructions for Humans with an emphasis on the performances with Emily and Aleks. 
 
 # The Final Five
 
