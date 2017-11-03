@@ -36,7 +36,7 @@ The last five weeks of the show will be themed around issues that have emerged d
 
 The very final week will wrap everything up in a nice tidy box, put a ribbon on it, and bid us bon voyage into the unknown future. 
 
-*Details will be announced once they are known and are* ***massively subject to change.*** 
+*Details will be announced once they are known and are* ***subject to change.*** 
 
 ## Week 1
 
