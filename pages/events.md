@@ -67,7 +67,9 @@ How do we make art about data? How can we think of [data as an artistic material
 
 *Nov 29 - Dec 2nd*
 
-Probably on the politics of it all. Kate Crawford's talk [Dark Days: AI and the Rise of Fascism](https://www.youtube.com/watch?v=Dlr4O1aEJvI) focussed a lot of issues me. What can we take from that? What is the political strategy for addressing these massive shifts that inform the fabric of society? What can we do on a local level to make a difference? Culminating in a panel or group discussion with interested parties or maybe a workshop.
+### Politics of Data
+
+Kate Crawford's talk [Dark Days: AI and the Rise of Fascism](https://www.youtube.com/watch?v=Dlr4O1aEJvI) focussed a lot of issues me. What can we take from that? What is the political strategy for addressing these massive shifts that inform the fabric of society? What can we do on a local level to make a difference? Culminating in a panel or group discussion with interested parties or maybe a workshop.
 
 I'm currently at a loss as to what this looks like. Ideas are very welcome. 
 
@@ -75,7 +77,7 @@ I'm currently at a loss as to what this looks like. Ideas are very welcome.
 
 *December 6-9*
 
-### Rituals
+### Data Rituals
 
 Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. [Andy Howlett](http://andyhowlett.co.uk) will be involved and there will be explorations of the city. [Hipkiss and Graney](https://www.hipkissandgraney.com) will be invited to do a ritual for the [wooden cell tower](http://instructionsforhumans.com/works/) I've built.
 
