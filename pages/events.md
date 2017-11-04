@@ -7,21 +7,17 @@ category: menu
 
 To stay informed and be reminded of events happening for Instructions For Humans, and many other things besides, you're best off [subscribing to Pete's newsletter](https://tinyletter.com/peteashton).
 
-## November 1-4
-
-**Data Cult: Capture Marathon**
-
-[Aleks Wojtulewicz](http://a-w-a.co.uk) will be undertaking a data-generating durational performance piece during gallery opening hours prior to its formal presentation on Monday 6th. Please treat him as you would any other sculpture.
 
 ## Monday November 6
 
-**Data Cult: An Instructional Event For Humans**
+**[Data Cult: An Instructional Event For Humans](http://instructionsforhumans.com/datacult/)**
+
+- [Project info page](http://instructionsforhumans.com/datacult/)
+- [Book tickets here.](https://www.eventbrite.co.uk/e/data-cult-an-instructional-event-for-humans-tickets-39044827129)
 
 [Emily Warner](https://emily-warner.com) and [Aleks Wojtulewicz](http://a-w-a.co.uk) will be performing new works devised with Pete Ashton as part of Instructions for Humans. 
 
-The performances will be free to attend but booking will be essential. 
-
-**[Book tickets here.](https://www.eventbrite.co.uk/e/data-cult-an-instructional-event-for-humans-tickets-39044827129)**
+The performances will be free to attend but [booking is advised](https://www.eventbrite.co.uk/e/data-cult-an-instructional-event-for-humans-tickets-39044827129). 
 
 - Development blog posts: [one](http://blog.peteashton.com/art/2017/11/02/ifh029/) 
 - Emily's [development blog](https://ifhekw.tumblr.com).
