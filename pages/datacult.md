@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Cult - An Instructional Event for Humans
-permalink: /events/
+permalink: /datacult/
 ## category: menu
 ---
 
