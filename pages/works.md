@@ -7,6 +7,16 @@ category: menu
 
 The Instruction Station takes in data and information from visitors, weights this with the biases of the artist and produces works which are presented as art. Here are some of them. 
 
+## Data Cult
+
+[Data Cult - An Instrutional Event for Humans](http://instructionsforhumans.com/datacult/) consisted of two new performances presented to the public on Monday November 6th 2017 by Emily Warner and Alex Wojtulewicz. Documentation of the performances will be treated as artistic material for the creation of further works. 
+
+[Data Cult is being archived in full on this page.](http://instructionsforhumans.com/datacult/)
+
+![](http://instructionsforhumans.com/images/datacult-aleks.jpg)
+
+![](http://instructionsforhumans.com/images/datacult-em.jpg)
+
 ## Cell Tower Mast For Sympathetic Magic Rituals
 
 A wooden triangle structure with three H shapes on each corner mimicking the antenna of a cell tower mast. 
