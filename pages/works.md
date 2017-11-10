@@ -9,7 +9,7 @@ The Instruction Station takes in data and information from visitors, weights thi
 
 ## Data Cult
 
-[Data Cult - An Instrutional Event for Humans](http://instructionsforhumans.com/datacult/) consisted of two new performances presented to the public on Monday November 6th 2017 by Emily Warner and Alex Wojtulewicz. Documentation of the performances will be treated as artistic material for the creation of further works. 
+[Data Cult - An Instructional Event for Humans](http://instructionsforhumans.com/datacult/) consisted of two new performances presented to the public on Monday November 6th 2017 by Emily Warner and Alex Wojtulewicz. Documentation of the performances will be treated as artistic material for the creation of further works. 
 
 [Data Cult is being archived in full on this page.](http://instructionsforhumans.com/datacult/)
 

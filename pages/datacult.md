@@ -37,7 +37,7 @@ Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on N
 
 ## Alex Wojtulewicz
 
-[video to come]
+<iframe src="https://player.vimeo.com/video/242235813?title=0&byline=0&portrait=0" width="640" height="160" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 &#8593; Time-merged sequences of 5 second timelapse images of his performance. 
 
