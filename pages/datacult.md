@@ -19,11 +19,11 @@ Data Cult exists in a world where the network, its sensors and processors, have 
 
 The works were devised with Pete Ashton who will continue to process data collected from them over the duration of the exhibition. 
 
-The framework chosen for this is the [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) phenomena from South Pacific islands, specifically how they emerged in the late 1940s as a response to the sudden disapearance of military supply chains between the US and Japan. 
+The framework chosen for this is the [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) phenomena from South Pacific islands, specifically how they emerged in the late 1940s as a response to the sudden disappearance of military supply chains between the US and Japan. 
 
-It's my contention that these cults, being driven by the absence of a techology that had dominated and changed their society, give us a valuable tool for understanding the shape and quality of systems that are otherwise intangiable and opaque. Just as the sudden absence of an air conditioner hum has a tangiable nature, the absence of The Network reveals to us its salient features. 
+It's my contention that these cults, being driven by the absence of a technology that had dominated and changed their society, give us a valuable tool for understanding the shape and quality of systems that are otherwise intangible and opaque. Just as the sudden absence of an air conditioner hum has a tangible nature, the absence of The Network reveals to us its salient features. 
 
-Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on November 6th 2017. Documentation and derived artworks are arvhived on this page.  
+Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on November 6th 2017. Documentation and derived artworks are archived on this page.  
 
 ## Emily Warner
 
