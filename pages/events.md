@@ -37,7 +37,7 @@ Privacy, data security, what is it, should we worry about it? Is it possible to 
 ![](http://instructionsforhumans.com/images/kruse1-1.jpg)
 
 
-How do we make art about data? How can we think of [data as an artistic material](http://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01414)? Are we talking about the numbers, or what the numbers represent, or what created the numbers? What is data anyway? 
+How do we make art about data? How can we think of [data as an artistic material](http://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01414)? Are we talking about the numbers, or what the numbers represent, or what created the numbers? What is data anyway?
 
 **All Week:** [Susan Kruse's Drawing Apparatuses](http://instructionsforhumans.com/kruse/) will be available for you to borrow and carry around the city as they draw a record of your movement. These generated artworks will be displayed in the gallery and posted to you later. [More details here.](http://instructionsforhumans.com/kruse/) 
 
@@ -48,6 +48,8 @@ How do we make art about data? How can we think of [data as an artistic material
 *Nov 29 - Dec 2nd*
 
 ### Politics of Data
+
+<iframe width="500" height="280" src="https://www.youtube-nocookie.com/embed/Dlr4O1aEJvI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Kate Crawford's talk [Dark Days: AI and the Rise of Fascism](https://www.youtube.com/watch?v=Dlr4O1aEJvI) focussed a lot of issues me. 
 
