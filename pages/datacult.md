@@ -43,11 +43,15 @@ Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on N
 
 [![](http://instructionsforhumans.com/images/tsne_grid_alekssq_small.jpg)](http://instructionsforhumans.com/images/tsne_grid_alekssq.jpg)
 
-&#8593; T-SNE distribution of 5 second timelapse images of his 15 hour performance. (click for [full-size](http://instructionsforhumans.com/images/tsne_grid_alekssq.jpg), 40mb)
+&#8593; t-SNE distribution of 5 second timelapse images of his 15 hour performance. (click for [full-size](http://instructionsforhumans.com/images/tsne_grid_alekssq.jpg), 40mb)
+
+![](http://instructionsforhumans.com/images/tsne_alex_zoom.jpg)
+
+&#8593; Close-up on the above t-SNE distribution, where images are sorted by similarity in a 3D space, then flattened to 2D.
 
 [![](http://instructionsforhumans.com/images/aleks_faces_hires_small.jpg)](http://instructionsforhumans.com/images/aleks_faces_hires.jpg)
 
-&#8593; Selfies taken every 5 minutes, in chronological order. (click for [full-size](http://instructionsforhumans.com/images/aleks_faces_hires.jpg), 10mb)
+&#8593; Selfies taken by Aleks every 5 minutes, in chronological order. (click for [full-size](http://instructionsforhumans.com/images/aleks_faces_hires.jpg), 10mb)
 
 ## Development writings 
 
