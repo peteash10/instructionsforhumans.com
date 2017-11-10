@@ -62,9 +62,9 @@ I’m currently at a loss as to what this looks like. Ideas are very welcome.
 
 ### Data Rituals
 
-![](http://instructionsforhumans.com/images/celltower1_500.jpg)
+![](http://instructionsforhumans.com/images/celltower3_500.jpg)
 
-Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. 
+Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books, along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. 
 
 By now we should know what "a Cargo Cult for AI" looks like. I’ll be revisiting the Data Cult performances from November and talking through the ideas that have crystallised through the exhibition. 
 
