@@ -5,6 +5,8 @@ permalink: /datacult/
 ## category: menu
 ---
 
+![](http://instructionsforhumans.com/images/datacult-em.jpg)
+
 **Data Cult** is a series of performances attempting to make sense of data-driven surveillance technologies and our relationship with them.
 
 In order to understand the intangible networks that surround us, it is sometimes useful to imagine their absence and to explore the space left behind. 
@@ -55,18 +57,14 @@ Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on N
 
 ![](http://instructionsforhumans.com/images/datacultwip3.jpg)
 
-![](http://instructionsforhumans.com/images/datacultwip4.jpg)
-
 ![](http://instructionsforhumans.com/images/datacultwip5.jpg)
 
 ![](http://instructionsforhumans.com/images/datacultwip6.jpg)
 
 ![](http://blog.peteashton.com/images/aleks_thur_3.jpg)
 
-![](http://blog.peteashton.com/images/aleks_thur_2.jpg)
-
 ![](http://blog.peteashton.com/images/aleks_thur_1.jpg)
 
-<iframe src="https://player.vimeo.com/video/241178720" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 [![](http://art.peteashton.com/assets/images/lottery_Logo_Black_RGB_smaller.jpg)](http://artscouncil.org.uk/)
