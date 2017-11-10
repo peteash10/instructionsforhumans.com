@@ -8,31 +8,11 @@ category: menu
 To stay informed and be reminded of events happening for Instructions For Humans, and many other things besides, you're best off [subscribing to Pete's newsletter](https://tinyletter.com/peteashton).
 
 
-## Monday November 6
-
-**[Data Cult: An Instructional Event For Humans](http://instructionsforhumans.com/datacult/)**
-
-- [Project info page](http://instructionsforhumans.com/datacult/)
-- [Book tickets here.](https://www.eventbrite.co.uk/e/data-cult-an-instructional-event-for-humans-tickets-39044827129)
-
-[Emily Warner](https://emily-warner.com) and [Aleks Wojtulewicz](http://a-w-a.co.uk) will be performing new works devised with Pete Ashton as part of Instructions for Humans. 
-
-The performances will be free to attend but [booking is advised](https://www.eventbrite.co.uk/e/data-cult-an-instructional-event-for-humans-tickets-39044827129). 
-
-- Development blog posts: [one](http://blog.peteashton.com/art/2017/11/02/ifh029/) 
-- Emily's [development blog](https://ifhekw.tumblr.com).
-
-## November 9-11 / 15-18
-
-[QTOPIA](http://www.bom.org.uk/event/qtopia/) by [Leo Francisco](http://queerzone3000.net/) will be installed at BOM for the [SHOUT festival](http://www.shoutfestival.co.uk/whats-on/all-shows/shout-17-qtopia-leo-francisco/). While distinct from Instructions for Humans it shares similar themes and we have plans to bleed the two shows together somehow. 
-
 # The Final Five
 
 The last five weeks of the show will be themed around issues that have emerged during conversations and actives in the gallery. Each week will culminate with an event of some description during the Saturday afternoon. 
 
-The very final week will wrap everything up in a nice tidy box, put a ribbon on it, and bid us bon voyage into the unknown future. 
-
-*Details will be announced once they are known and are* ***subject to change.*** 
+The very final week will wrap everything up in a nice tidy box, put a ribbon on it, and bid us bon voyage into the future. 
 
 ## Week 1
 
@@ -69,22 +49,41 @@ How do we make art about data? How can we think of [data as an artistic material
 
 ### Politics of Data
 
-Kate Crawford's talk [Dark Days: AI and the Rise of Fascism](https://www.youtube.com/watch?v=Dlr4O1aEJvI) focussed a lot of issues me. What can we take from that? What is the political strategy for addressing these massive shifts that inform the fabric of society? What can we do on a local level to make a difference? Culminating in a panel or group discussion with interested parties or maybe a workshop.
+Kate Crawford's talk [Dark Days: AI and the Rise of Fascism](https://www.youtube.com/watch?v=Dlr4O1aEJvI) focussed a lot of issues me. 
 
-I'm currently at a loss as to what this looks like. Ideas are very welcome. 
+Activists and journalists have highlighted many important issues around data collection and processing.
 
+What is a political strategy for addressing these massive shifts that inform the fabric of society? What can we do on a local level to make a difference? 
+
+I’m currently at a loss as to what this looks like. Ideas are very welcome.
 ## Week 4
 
 *December 6-9*
 
 ### Data Rituals
 
-Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. [Andy Howlett](http://andyhowlett.co.uk) will be involved and there will be explorations of the city. [Hipkiss and Graney](https://www.hipkissandgraney.com) will be invited to do a ritual for the [wooden cell tower](http://instructionsforhumans.com/works/) I've built.
+![](http://instructionsforhumans.com/images/celltower1_500.jpg)
+
+Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. 
+
+By now we should know what "a Cargo Cult for AI" looks like. I’ll be revisiting the Data Cult performances from November and talking through the ideas that have crystallised through the exhibition. 
+
+**TBA:** [Andy Howlett](http://andyhowlett.co.uk) and myself will lead a psychogeographic walk around Birmingham city centre looking at where the internet leaks out into the infrastructure of the city.
+
+**Saturday:** Local artists [Hipkiss & Graney](https://www.hipkissandgraney.com) will perform a ritual of some description around the wooden cell tower antenna in the gallery. There may be chanting. 
 
 ## Week 5
 
 *December 13-16*
 
-Where do we go from here? What have we learned? What can we do? What should we do? 
+### The End
 
-The gallery goes retro/futrospective in an attempt to make it all worthwhile. Culminates in a gathering of some kind. 
+We will have spent 14 weeks art-making and discussing. I’ll be exhausted and looking forward to a rest. 
+
+But before I go, conclusions must be drawn, plans made and instructions given. 
+
+I will have something to say. 
+
+You will need to hear it. 
+
+Watch this space.

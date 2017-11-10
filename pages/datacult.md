@@ -49,6 +49,11 @@ Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on N
 
 &#8593; Selfies taken every 5 minutes, in chronological order. (click for [full-size](http://instructionsforhumans.com/images/aleks_faces_hires.jpg), 10mb)
 
+## Development writings 
+
+- [Blog post on working with Aleks.](http://blog.peteashton.com/art/2017/11/02/ifh029/) 
+- [Emily's development blog](https://ifhekw.tumblr.com).
+
 ## Development photos
 
 ![](http://instructionsforhumans.com/images/datacultwip1.jpg)
