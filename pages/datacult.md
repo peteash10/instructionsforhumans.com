@@ -13,7 +13,7 @@ In order to understand the intangible networks that surround us, it is sometimes
 
 Data Cult exists in a world where the network, its sensors and processors, have suddenly vanished. 
 
-[Alex Wojtulewicz](http://a-w-a.co.uk/) spent the week leading up to the event attempting to process surveillance footage and communicate its content to a camera. He does this through a code built of exercise routines until his body is exhausted. 
+[Aleks Wojtulewicz](http://a-w-a.co.uk/) spent the week leading up to the event attempting to process surveillance footage and communicate its content to a camera. He does this through a code built of exercise routines until his body is exhausted. 
 
 [Emily Warner](https://emily-warner.com/) used algorithmically generated icons from the pre-absence era to guide her movements, which she attempted to record using ropes and weights. [Karen Cameron](https://twitter.com/KCanard) annotates the piece in real time creating a feedback loop.
 
