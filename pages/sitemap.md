@@ -9,11 +9,11 @@ This site is constantly growing and evolving, so it's time to invoke that old-sc
 [Home](http://instructionsforhumans.com/)
 
 - [Artworks for Humans](http://instructionsforhumans.com/works/)
- - [Data Cult](http://instructionsforhumans.com/datacult/)
+	- [Data Cult](http://instructionsforhumans.com/datacult/)
 - [Events for Humans](http://instructionsforhumans.com/events/)
- - [Susan's Drawing Aparatus Week](http://instructionsforhumans.com/kruse/)
+	- [Susan's Drawing Aparatus Week](http://instructionsforhumans.com/kruse/)
 - [Reading list](http://instructionsforhumans.com/references/)
- - [Web article index](https://pinboard.in/u:peteashton/t:ifh/)
+	- [Web article index](https://pinboard.in/u:peteashton/t:ifh/)
 
 Elsewhere
 
