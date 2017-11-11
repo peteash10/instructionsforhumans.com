@@ -25,6 +25,8 @@ It's my contention that these cults, being driven by the absence of a technology
 
 Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on November 6th 2017. Documentation and derived artworks are archived on this page.  
 
+*****
+
 ## Emily Warner
 
 <iframe src="https://player.vimeo.com/video/242211423?title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -34,6 +36,8 @@ Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on N
 [![](http://instructionsforhumans.com/images/emilyblobsscore_small.jpg)](http://instructionsforhumans.com/images/emilyblobsscore.jpg)
 
 &#8593; Visual score traversed by Pete Ashton on four screens to guide Emily's movements. (click for [full-size](http://instructionsforhumans.com/images/emilyblobsscore.jpg), 25mb)
+
+*****
 
 ## Alex Wojtulewicz
 
@@ -55,10 +59,14 @@ Aleks' work was a stand-alone durtional 15 hours piece. What follows is a sepera
 
 &#8593; Selfies taken by Aleks every 5 minutes, in chronological order. (click for [full-size](http://instructionsforhumans.com/images/aleks_faces_hires.jpg), 10mb)
 
+*****
+
 ## Development writings 
 
 - [Blog post on working with Aleks.](http://blog.peteashton.com/art/2017/11/02/ifh029/) 
 - [Emily's development blog](https://ifhekw.tumblr.com).
+
+*****
 
 ## Development photos
 
@@ -76,6 +84,7 @@ Aleks' work was a stand-alone durtional 15 hours piece. What follows is a sepera
 
 ![](http://blog.peteashton.com/images/aleks_thur_1.jpg)
 
+*****
 
 ## Music attribution
 
@@ -96,7 +105,6 @@ Emily's notes:
 19.00 - 24.00 - Disk Melt // rhythm feedback  
 25.00 - 28.30 - Sleeper Train // fade strip restore wipe  
 
-
-
+*****
 
 [![](http://art.peteashton.com/assets/images/lottery_Logo_Black_RGB_smaller.jpg)](http://artscouncil.org.uk/)
