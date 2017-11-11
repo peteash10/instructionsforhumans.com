@@ -41,7 +41,10 @@ How do we make art about data? How can we think of [data as an artistic material
 
 **All Week:** [Susan Kruse's Drawing Apparatuses](http://instructionsforhumans.com/kruse/) will be available for you to borrow and carry around the city as they draw a record of your movement. These generated artworks will be displayed in the gallery and posted to you later. [More details here.](http://instructionsforhumans.com/kruse/) 
 
-**Saturday:** [Data Art Day](http://instructionsforhumans.com/dataartday/) sees me inviting three guests to the gallery to show and talk about their work. At 5pm of the day there'll be semi-formal garhering with beverages aimed at artists working with, or thinking about working with, data and information. [Tickets a free - please book here.](https://www.eventbrite.co.uk/e/data-art-day-tickets-39793686989)  
+**Saturday:** [Data Art Day](http://instructionsforhumans.com/dataartday/) sees me inviting three guests to the gallery to show and talk about their work. At 5pm of the day there'll be semi-formal garhering with beverages aimed at artists working with, or thinking about working with, data and information.
+
+- [More info about Data Art Day.](http://instructionsforhumans.com/dataartday/)   
+- [Tickets are free - please book here.](https://www.eventbrite.co.uk/e/data-art-day-tickets-39793686989)  
 
 ## Week 3
 
@@ -57,7 +60,7 @@ Activists and journalists have highlighted many important issues around data col
 
 What is a political strategy for addressing these massive shifts that inform the fabric of society? What can we do on a local level to make a difference? 
 
-I’m currently at a loss as to what this looks like. Ideas are very welcome.
+I’m currently at a loss as to what this looks like. I do not want to do a panel discussion. Other ideas are very welcome.
 ## Week 4
 
 *December 6-9*
