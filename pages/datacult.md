@@ -77,5 +77,26 @@ Aleks' work was a stand-alone durtional 15 hours piece. What follows is a sepera
 ![](http://blog.peteashton.com/images/aleks_thur_1.jpg)
 
 
+## Music attribution
+
+The soundtrack for [Emily’s piece](https://vimeo.com/242211423) is edited from work by the following artists: [Humanfobia](https://humanfobia.jimdo.com), [Lyn Goeringer](http://www.lyngoeringer.com/portfolio/), [Tribe of Astronauts](https://archive.org/search.php?query=creator%3A%22Tribe+of+Astronauts%22), [Cortex](http://freemusicarchive.org/music/CorteX/Paranormal/), [Akashik Crow’s Nest](http://webbedhandrecords.com/tag/akashic-crows-nest/), [Winjer3](http://freemusicarchive.org/music/Winjer3/). Sourced from [Webbed Hand ](http://webbedhandrecords.com). 
+
+Emily's notes: 
+
+00.00 - 02.00 - Remote Missive - airy spacey audio // clearing opening scouring  
+02.00 - 02.30 - fade out Remote Missive, fade in Limbus Fatuorum  
+02.30 - 06.00 - Limbus Fatuorum - digital synth layers // identifying connecting knowledge  
+06.00 - 08.00 - fade out Limbus Fatuorum, fade in Walking Commute  
+08.00 - 09.00 - Walking Commute, resonant chinking // absence processing preparation  
+09.00 - 11.00 - fade in Pink Ghost // higher level revelation truth connecting powers  
+11.00 - 12.20 - Heart Attack treatment // purpose function activation beat  
+12.20 - 15.00 - Majik Healer // spirit elevation prizing channels  
+15.00 - 16.30 - Laughing Gas // attain working status active  
+16.30 - 19.00 - Possessed Telephone // processing economising streamlining   
+19.00 - 24.00 - Disk Melt // rhythm feedback  
+25.00 - 28.30 - Sleeper Train // fade strip restore wipe  
+
+
+
 
 [![](http://art.peteashton.com/assets/images/lottery_Logo_Black_RGB_smaller.jpg)](http://artscouncil.org.uk/)
