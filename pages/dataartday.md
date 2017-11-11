@@ -27,7 +27,7 @@ Data Art uses information to tell a new story about the world, not simply record
 
 To help me tease this idea into something coherent, I will be joined by three guests. From left to right...
 
-![](http://instructionsforhumans.com/images/hannah_nikki_susan_pete_row.jpg)
+![](http://instructionsforhumans.com/images/hannah_nikki_susan_pete.jpg)
 
 **[Hannah Redler Hawes](https://theodi.org/team/hannah-redler)** is an independent curator representing [Data as Culture](https://theodi.org/culture), the art programme for the Open Data Institute. She was previously Head of Arts Programme at the London Science Museum. 
 
