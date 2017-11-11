@@ -12,6 +12,7 @@ This site is constantly growing and evolving, so it's time to invoke that old-sc
 	- [Data Cult](http://instructionsforhumans.com/datacult/)
 - [Events for Humans](http://instructionsforhumans.com/events/)
 	- [Susan's Drawing Aparatus Week](http://instructionsforhumans.com/kruse/)
+	- [Data Art Day](http://instructionsforhumans.com/dataartday/)
 - [Reading list](http://instructionsforhumans.com/references/)
 	- [Web article index](https://pinboard.in/u:peteashton/t:ifh/)
 
