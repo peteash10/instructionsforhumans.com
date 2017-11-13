@@ -33,7 +33,7 @@ To help me tease this idea into something coherent, I will be joined by three gu
 
 **[Nikki Pugh](http://npugh.co.uk/)** is an artist whose work is centred around interactions between people and place: often using tools and strategies from areas such as pervasive games and physical computing to set up frameworks for exploration. Her work *Colony* uses GPS data as an art material and she will be bringing *Orrery for Landscape, Sinew and Serendipity* to the gallery. 
 
-**Susan Kruse** is an artist whose [Drawing Apparatus](http://instructionsforhumans.com/kruse/) will be available to borrow during the week. Her practice is primarily concerned with drawing and has included video, sound, sculpture and performance. She is currently developing a new body of work that explores the role of information and data in autistic experience and culture, using lo-fi and digital drawing methods. 
+**Kruse** is an artist whose [Drawing Apparatus](http://instructionsforhumans.com/kruse/) will be available to borrow during the week. Her practice is primarily concerned with drawing and has included video, sound, sculpture and performance. She is currently developing a new body of work that explores the role of information and data in autistic experience and culture, using lo-fi and digital drawing methods. 
 
 **Pete Ashton** is myself and I'll be specifically talking about [Data Cult](http://instructionsforhumans.com/datacult/) where I worked with two performance artists to make work about data tracking technology.
 

@@ -34,12 +34,12 @@ Privacy, data security, what is it, should we worry about it? Is it possible to 
 
 ### Data and Art
 
-![](http://instructionsforhumans.com/images/kruse1-1.jpg)
+![](http://instructionsforhumans.com/images/kruse4-1.jpg)
 
 
 How do we make art about data? How can we think of [data as an artistic material](http://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01414)? Are we talking about the numbers, or what the numbers represent, or what created the numbers? What is data anyway?
 
-**All Week:** [Susan Kruse's Drawing Apparatuses](http://instructionsforhumans.com/kruse/) will be available for you to borrow and carry around the city as they draw a record of your movement. These generated artworks will be displayed in the gallery and posted to you later. [More details here.](http://instructionsforhumans.com/kruse/) 
+**All Week:** [Kruse's Drawing Apparatuses](http://instructionsforhumans.com/kruse/) will be available for you to borrow and carry around the city as they draw a record of your movement. These generated artworks will be displayed in the gallery and posted to you later. [More details here.](http://instructionsforhumans.com/kruse/) 
 
 **Saturday:** [Data Art Day](http://instructionsforhumans.com/dataartday/) sees me inviting three guests to the gallery to show and talk about their work. At 5pm of the day there'll be semi-formal gathering with beverages aimed at artists working with, or thinking about working with, data and information.
 

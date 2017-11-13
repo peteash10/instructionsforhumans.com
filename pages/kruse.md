@@ -1,18 +1,13 @@
 ---
 layout: page
-title: Susan's Drawing Apparatus Week
+title: Kruse's Drawing Apparatus Week
 permalink: /kruse/
 ## category: menu
 ---
 
-**November 22nd - 25th is Data and Art week at Instructions for Humans and I've asked Susan Kruse to bring her Drawing Apparatuses in for people to borrow.**
+**November 22nd - 25th is Data and Art week at Instructions for Humans and I've asked artist Kruse to bring her Drawing Apparatuses in for people to borrow.**
 
-These simple devices consist of a pen suspended in a bottle above a piece of paper. As the device moves, the pen marks the paper and over time creates a visual record of its motion. 
-
-![](http://instructionsforhumans.com/images/kruse1.jpg)
-
-![](http://instructionsforhumans.com/images/kruse2.jpg)
-
+These simple devices consist of a pen suspended above a piece of paper. As the device moves, the pen marks the paper and over time creates a visual record of its motion. 
 
 The end result can be seen as a visualisation of a journey taken and a record of the manner and style of your movement. It is also very pleasing to look at. 
 
@@ -22,9 +17,9 @@ We'll have a few devices ready to borrow but if you want to reserve one speciall
 
 ![](http://instructionsforhumans.com/images/kruse4.jpg)
 
-Susan is planning a major project next year exploring this technology so you'll be helping her with research and development. 
+Kruse is planning a major project next year exploring this technology so you'll be helping her with research and development. 
 
-This exercise emerged from Susan taking the "walk in a straight line" instruction card from the gallery and bringing me the pen drawing as evidence of the walk. 
+This exercise emerged from Kruse taking the "walk in a straight line" instruction card from the gallery and bringing me the pen drawing as evidence of the walk. 
 
 ![](http://instructionsforhumans.com/images/kruse3.jpg)
 
