@@ -29,7 +29,7 @@ This connected with my interest in the post-WWII [cargo cults](https://en.wikipe
 
 Will be used for a ritual event on Saturday 9th December by [Hipkiss and Graney](https://www.hipkissandgraney.com). 
 
-![](http://instructionsforhumans.com/images/celltower1.jpg)
+![](http://instructionsforhumans.com/images/celltower4.jpg)
 
 ![](http://instructionsforhumans.com/images/celltower2.jpg)
 
