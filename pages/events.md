@@ -8,32 +8,11 @@ category: menu
 To stay informed and be reminded of events happening for Instructions For Humans, and many other things besides, you're best off [subscribing to Pete's newsletter](https://tinyletter.com/peteashton).
 
 
-# The Final Five
+# Forthcoming Events
 
-The last five weeks of the show will be themed around issues that have emerged during conversations and actives in the gallery. Each week will culminate with an event of some description during the Saturday afternoon. 
-
-The very final week will wrap everything up in a nice tidy box, put a ribbon on it, and bid us bon voyage into the future. 
-
-## Week 1
-
-*November 15-18*
-
-### Data Detox
-
-![](http://instructionsforhumans.com/images/datadetox.jpg)
-
-Privacy, data security, what is it, should we worry about it? Is it possible to fight against the excesses of [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism) or is it just as effective to bury one's head in the sand? 
-
-**All Week:** Crossing over with [QTOPIA](http://www.bom.org.uk/event/qtopia/) in the adjoining room, I'll be showcasing some artistic and creative strategies for obsfucating your personal activity from The Network and trying a few things out on myself. 
-
-**Saturday:** [Fiona Cullinan](http://fionacullinan.com/projects/infosecurity/), just back from [The Glass Room](https://theglassroom.org) show in London, will be running a free drop-in Data Detox surgery in the gallery from 1-3pm to answer your questions and point you in the right direction. [More details here.](http://www.bom.org.uk/event/data-detox-surgery/) 
-
-## Week 2
+## Data and Art
 
 *November 22-25*
-
-### Data and Art
-
 ![](http://instructionsforhumans.com/images/kruse4-1.jpg)
 
 
@@ -46,26 +25,10 @@ How do we make art about data? How can we think of [data as an artistic material
 - [More info about Data Art Day.](http://instructionsforhumans.com/dataartday/)   
 - [Tickets are free - please book here.](https://www.eventbrite.co.uk/e/data-art-day-tickets-39793686989)  
 
-## Week 3
 
-*Nov 29 - Dec 2nd*
-
-### Politics of Data
-
-<iframe width="500" height="280" src="https://www.youtube-nocookie.com/embed/Dlr4O1aEJvI?rel=0" frameborder="0" allowfullscreen></iframe>
-
-Kate Crawford's talk [Dark Days: AI and the Rise of Fascism](https://www.youtube.com/watch?v=Dlr4O1aEJvI) focussed a lot of issues me. 
-
-Activists and journalists have highlighted many important issues around data collection and processing.
-
-What is a political strategy for addressing these massive shifts that inform the fabric of society? What can we do on a local level to make a difference? 
-
-I’m currently at a loss as to what this looks like. I do not want to do a panel discussion. Other ideas are very welcome.
-## Week 4
+## Data Rituals
 
 *December 6-9*
-
-### Data Rituals
 
 ![](http://instructionsforhumans.com/images/celltower3_500.jpg)
 
@@ -77,11 +40,9 @@ By now we should know what "a Cargo Cult for AI" looks like. I’ll be revisitin
 
 **Saturday:** Local artists [Hipkiss & Graney](https://www.hipkissandgraney.com) will perform a ritual of some description around the wooden cell tower antenna in the gallery. There may be chanting. 
 
-## Week 5
+## The End
 
 *December 13-16*
-
-### The End
 
 We will have spent 14 weeks art-making and discussing. I’ll be exhausted and looking forward to a rest. 
 
@@ -92,3 +53,22 @@ I will have something to say.
 You will need to hear it. 
 
 Watch this space.
+
+# Event Archive
+
+After December 16th all events will be past events and this section will be at the top of the page. 
+
+## Data Cult - An Instructional Event for Humans
+
+Took place on November 6th with artists Emily Warner, Aleks Wojtulewicz and Karen Cameron 
+
+- [Documentation and archive of works produced.](http://instructionsforhumans.com/datacult/)
+
+## Data Detox Surgery
+
+![](http://instructionsforhumans.com/images/datadetox.jpg)
+
+Took place on November 18th with guest Fiona Cullinan offering advice on protecting your online data. 
+
+- [Archive of information given and documentation.](http://instructionsforhumans.com/datadetox/)
+
