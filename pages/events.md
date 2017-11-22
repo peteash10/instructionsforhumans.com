@@ -8,7 +8,7 @@ category: menu
 To stay informed and be reminded of events happening for Instructions For Humans, and many other things besides, you're best off [subscribing to Pete's newsletter](https://tinyletter.com/peteashton).
 
 
-# Forthcoming Events
+# FORTHCOMING EVENTS
 
 ## Data and Art
 
@@ -55,7 +55,7 @@ You will need to hear it.
 
 Watch this space.
 
-# Event Archive
+# PAST EVENTS
 
 After December 16th all events will be past events and this section will be at the top of the page. 
 
