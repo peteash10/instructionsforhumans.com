@@ -13,6 +13,7 @@ To stay informed and be reminded of events happening for Instructions For Humans
 ## Data and Art
 
 *November 22-25*
+
 ![](http://instructionsforhumans.com/images/kruse4-1.jpg)
 
 
@@ -62,7 +63,7 @@ After December 16th all events will be past events and this section will be at t
 
 Took place on November 6th with artists Emily Warner, Aleks Wojtulewicz and Karen Cameron 
 
-- [Documentation and archive of works produced.](http://instructionsforhumans.com/datacult/)
+- [Data Cult documentation and archive of works produced.](http://instructionsforhumans.com/datacult/)
 
 ## Data Detox Surgery
 
@@ -70,5 +71,5 @@ Took place on November 6th with artists Emily Warner, Aleks Wojtulewicz and Kare
 
 Took place on November 18th with guest Fiona Cullinan offering advice on protecting your online data. 
 
-- [Archive of information given and documentation.](http://instructionsforhumans.com/datadetox/)
+- [Data Detox archive of information given and documentation.](http://instructionsforhumans.com/datadetox/)
 
