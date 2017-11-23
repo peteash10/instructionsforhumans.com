@@ -37,9 +37,9 @@ Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cu
 
 By now we should know what "a Cargo Cult for AI" looks like. I’ll be revisiting the Data Cult performances from November and talking through the ideas that have crystallised through the exhibition. 
 
-**TBA:** [Andy Howlett](http://andyhowlett.co.uk) and myself will lead a psychogeographic walk around Birmingham city centre looking at where the internet leaks out into the infrastructure of the city.
+**Saturday 9th, 1:30pm** **[Algo-Walk for Humans](http://instructionsforhumans.com/algowalk/)** sees [Andy Howlett](http://andyhowlett.co.uk) and myself leading a group of walkers on a psychogeographic journey of the mobile phone masts of Birmingham city centre. At each mast you will be asked to engage with the City Perception Algorithm (working title) and to measure how your city differs from your fellow explorers. [More information and booking details.](http://instructionsforhumans.com/algowalk/)
 
-**Saturday:** Local artists [Hipkiss & Graney](https://www.hipkissandgraney.com) will perform a ritual of some description around the wooden cell tower antenna in the gallery. There may be chanting. 
+**Saturday 9th, 4pm** Local artists [Hipkiss & Graney](https://www.hipkissandgraney.com) will perform a ritual of some description around the wooden cell tower antenna in the gallery. There may be chanting. 
 
 ## The End
 
