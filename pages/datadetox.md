@@ -6,7 +6,7 @@ permalink: /datadetox/
 
 A Data Detox Surgery was held as part of the Instructions for Humans exhibition on November 18th with guest [Fiona Cullinan](http://fionacullinan.com/) offering advice on protecting your online data.
 
-
+![](http://instructionsforhumans.com/images/datadetoxday3.jpg)
 
 This was informed by her research and time spent with [Tactical Tech](https://tacticaltech.org)'s [The Glass Room](https://theglassroom.org) a couple of weeks previously. Materials from The Glass Room were on display as talking points. 
 
@@ -69,3 +69,7 @@ Thanks to all who attended. It was a really useful test-run for taking this to a
 ![](http://instructionsforhumans.com/images/datadetoxday1.jpg)
 
 ![](http://instructionsforhumans.com/images/datadetoxday2.jpg)
+
+![](http://instructionsforhumans.com/images/datadetoxday3.jpg)
+
+![](http://instructionsforhumans.com/images/datadetoxday4.jpg)
