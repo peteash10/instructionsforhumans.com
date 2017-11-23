@@ -24,7 +24,7 @@ The walk is free to attend. [Book now.](https://www.eventbrite.co.uk/e/algo-walk
 
 ![](http://instructionsforhumans.com/images/algowalkmap1.jpg)
 
-After an introductory chat the walk will last up to an hour and will take place regardless of the weather, so wrap up warm. 
+After an introductory chat in the [BOM gallery](http://www.bom.org.uk), the walk will last up to an hour and will take place regardless of the weather, so wrap up warm. 
 
 Afterwards there'll be a chance to talk about the experience of living like data over a hot cup of tea. 
 
