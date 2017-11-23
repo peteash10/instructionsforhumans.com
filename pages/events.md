@@ -61,6 +61,8 @@ After December 16th all events will be past events and this section will be at t
 
 ## Data Cult - An Instructional Event for Humans
 
+![](http://instructionsforhumans.com/images/datacult-em_500.jpg)
+
 Took place on November 6th with artists Emily Warner, Aleks Wojtulewicz and Karen Cameron 
 
 - [Data Cult documentation and archive of works produced.](http://instructionsforhumans.com/datacult/)
