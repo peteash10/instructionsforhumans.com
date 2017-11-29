@@ -21,7 +21,7 @@ How do we make art about data? How can we think of [data as an artistic material
 
 **All Week:** [Kruse's Drawing Apparatuses](http://instructionsforhumans.com/kruse/) will be available for you to borrow and carry around the city as they draw a record of your movement. These generated artworks will be displayed in the gallery and posted to you later. [More details here.](http://instructionsforhumans.com/kruse/) 
 
-**Saturday:** [Data Art Day](http://instructionsforhumans.com/dataartday/) sees me inviting three guests to the gallery to show and talk about their work. At 5pm of the day there'll be semi-formal gathering with beverages aimed at artists working with, or thinking about working with, data and information.
+**Saturday:** [Data Art Day](http://instructionsforhumans.com/dataartday/) sees me inviting three guests to the gallery to show and talk about their work. At 5pm of the day there'll be a semi-formal gathering with beverages aimed at artists working with, or thinking about working with, data and information.
 
 - [More info about Data Art Day.](http://instructionsforhumans.com/dataartday/)   
 - [Tickets are free - please book here.](https://www.eventbrite.co.uk/e/data-art-day-tickets-39793686989)  
@@ -33,9 +33,7 @@ How do we make art about data? How can we think of [data as an artistic material
 
 ![](http://instructionsforhumans.com/images/celltower3_500.jpg)
 
-Tying up my thoughts around [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) and bringing in stuff from the [Curious Rituals](http://curiousrituals.nearfuturelaboratory.com) and [Networks of New York](http://amzn.to/2tCcPU7) books, along with a chunk of psychogeography-eque strategies for breaking/creating rules of engaging with the world. 
-
-By now we should know what "a Cargo Cult for AI" looks like. I’ll be revisiting the Data Cult performances from November and talking through the ideas that have crystallised through the exhibition. 
+By now we should know what "a [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) for AI" looks like. I’ll be revisiting the Data Cult performances from November and talking through the ideas that have crystallised through the exhibition. 
 
 **Saturday 9th, 1:30pm** **[Algo-Walk for Humans](http://instructionsforhumans.com/algowalk/)** sees [Andy Howlett](http://andyhowlett.co.uk) and myself leading a group of walkers on a psychogeographic journey of the mobile phone masts of Birmingham city centre. At each mast you will be asked to engage with the City Perception Algorithm (working title) and to measure how your city differs from your fellow explorers. [More information and booking details.](http://instructionsforhumans.com/algowalk/)
 
