@@ -1,15 +1,15 @@
 // Quiz result options in a separate object for flexibility
 var resultOptions = [
     {   title: 'Crouch on the ground',
-        desc: '<p><a href="index.html">Start again</a></p>'},
+        desc: '<p>&nbsp</p>'},
     {   title: 'Reach for the sky',
-        desc: '<p><a href="index.html">Start again</a></p>'},
+        desc: '<p>&nbsp</p>'},
     {   title: 'Spin on the spot',
-        desc: '<p><a href="index.html">Start again</a></p>'},
+        desc: '<p>&nbsp</p>'},
     {   title: 'Wave at a stranger',
-        desc: '<p><a href="index.html">Start again</a></p>'},
+        desc: '<p>&nbsp</p>'},
     {   title: 'Stand in a corner',
-        desc: '<p><a href="index.html">Start again</a></p>'},
+        desc: '<p>&nbsp</p>'},
 ];
     
 // global variables
@@ -68,7 +68,7 @@ function updateStep(currentStep) {
 function calcResults(totalScore) {
     // only update the results div if all questions have been answered
     if (quizSteps.find('.active').length == quizSteps.length){
-        var resultsTitle = $('#results h1'),
+        var resultsTitle = $('#results h2'),
             resultsDesc = $('#results .desc');
         
         // calc lowest possible score
@@ -98,7 +98,7 @@ function calcResults(totalScore) {
             increment = minScore + (interval * n);
             if (totalScore <= increment) {
                 // populate results
-                resultsTitle.replaceWith("<h1>" + resultOptions[n].title + "</h1>");
+                resultsTitle.replaceWith("<h2>" + resultOptions[n].title + "</h2>");
                 resultsDesc.replaceWith("<p class='desc'>" + resultOptions[n].desc + "</p>");
                 return;
             } else {
