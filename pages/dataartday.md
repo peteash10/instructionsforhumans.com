@@ -41,13 +41,13 @@ To help me tease this idea into something coherent, I will be joined by three gu
 
 ## Photos from the event
 
+![](http://instructionsforhumans.com/images/dataartday00006.jpg)
+
 ![](http://instructionsforhumans.com/images/dataartday00001.jpg)
 
 ![](http://instructionsforhumans.com/images/dataartday00002.jpg)
 
 ![](http://instructionsforhumans.com/images/dataartday00003.jpg)
-
-![](http://instructionsforhumans.com/images/dataartday00006.jpg)
 
 ![](http://instructionsforhumans.com/images/dataartday00005.jpg)
 
