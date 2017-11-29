@@ -6,9 +6,17 @@ var resultOptions = [
         desc: '<p>&nbsp</p>'},
     {   title: 'Spin on the spot',
         desc: '<p>&nbsp</p>'},
-    {   title: 'Wave at a stranger',
+    {   title: 'Touch your knees',
         desc: '<p>&nbsp</p>'},
     {   title: 'Stand in a corner',
+        desc: '<p>&nbsp</p>'},
+    {   title: 'Stand on one leg',
+        desc: '<p>&nbsp</p>'},
+    {   title: 'Point in front of you',
+        desc: '<p>&nbsp</p>'},
+    {   title: 'Look at the sky',
+        desc: '<p>&nbsp</p>'},
+    {   title: 'Cross your arms',
         desc: '<p>&nbsp</p>'},
 ];
     
