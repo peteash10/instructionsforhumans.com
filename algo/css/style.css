@@ -7,6 +7,15 @@ html, body, #quizzie {
   height: 100%;
 }
 
+@media screen and (max-width: 800px) {
+    .wrapper {
+        max-width: -webkit-calc(800px - (30px));
+        max-width: calc(800px - (30px));
+        padding-right: 15px;
+        padding-left: 15px
+    }
+}
+
 * {
   box-sizing: border-box;
 }
