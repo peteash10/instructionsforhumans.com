@@ -8,7 +8,7 @@ html, body, #quizzie {
 }
 
 @media screen and (max-width: 800px) {
-    .wrapper {
+    body {
         max-width: -webkit-calc(800px - (30px));
         max-width: calc(800px - (30px));
         padding-right: 15px;
