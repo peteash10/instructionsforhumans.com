@@ -10,6 +10,7 @@ This site is constantly growing and evolving, so it's time to invoke that old-sc
 
 - **[Artworks for Humans](http://instructionsforhumans.com/works/)**
 	- [Data Cult](http://instructionsforhumans.com/datacult/)
+	- [Transcripts of Humans](http://instructionsforhumans.com/transcripts/)
 	- [Algo-Walk for Humans](http://instructionsforhumans.com/algowalk/)
 
 - **[Events for Humans](http://instructionsforhumans.com/events/)**

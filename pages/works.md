@@ -43,6 +43,8 @@ Will be used for a ritual event on Saturday 9th December by [Hipkiss and Graney]
 
 Conversations with the artist are recorded because the artist has a terrible memory. These recordings are summarised by the transcriber, [Karen Cameron](https://twitter.com/KCanard). The artist has loosely edited the summaries to remove sensitive information and presented those from the first month on the walls of the gallery. The transcriber continues to summarise conversations, some of which are now about her summaries. This produces [interesting feedback loops](https://amwritingthings.tumblr.com/post/166671665230/systems-in-the-text). 
 
+[The transcripts are archived online here.](http://instructionsforhumans.com/transcripts/)
+
 
 ![](http://instructionsforhumans.com/images/transcripts1.jpg)
 
