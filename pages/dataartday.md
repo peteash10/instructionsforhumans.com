@@ -37,7 +37,7 @@ To help me tease this idea into something coherent, I was joined by three guests
 
 **Kruse** is an artist whose [Drawing Apparatus](http://instructionsforhumans.com/kruse/) were available to borrow during the week. Her practice is primarily concerned with drawing and has included video, sound, sculpture and performance. She is currently developing a new body of work that explores the role of information and data in autistic experience and culture, using lo-fi and digital drawing methods. 
 
-**Pete Ashton** is myself and I was specifically talking about [Data Cult](http://instructionsforhumans.com/datacult/) where I worked with two performance artists to make work about data tracking technology.
+**Pete Ashton** is myself and I brielfy framed the talks using [Data Cult](http://instructionsforhumans.com/datacult/) where I worked with two performance artists to make work about data tracking technology.
 
 *****
 
