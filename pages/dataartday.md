@@ -4,6 +4,8 @@ title: Data Art Day
 permalink: /dataartday/
 ---
 
+![](http://instructionsforhumans.com/images/dataartday00005.jpg)
+
 **Saturday 25th November saw three guests joining me in the BOM gallery to share their work and ideas about using data in art.** 
 
 This event was not about computers or programming. It was about the practice of using information in all art forms. I was particularly interested in those who do not consider themselves "digital" attending. 
@@ -102,8 +104,6 @@ Hannah, Nikki and Kruse gave short talks about their work and work they admired.
 ![](http://instructionsforhumans.com/images/dataartday00002.jpg)
 
 ![](http://instructionsforhumans.com/images/dataartday00003.jpg)
-
-![](http://instructionsforhumans.com/images/dataartday00005.jpg)
 
 ![](http://instructionsforhumans.com/images/dataartday00004.jpg)
 
