@@ -6,7 +6,6 @@ permalink: /transcripts/
 
 ![](http://instructionsforhumans.com/images/transcripts4.jpg)
 
-
 Conversations between the artist and visitors to the gallery are sometimes recorded. 
 
 These recordings are sent to a transcriber who describes them in text to a level of detail she deems appropriate.
@@ -22,6 +21,8 @@ Gallery visitors are invited discuss these transcripts with the artist. The tran
 *Transcripts by Karen Cameron*  
 21st September to 29th November 2017  
 135,000 words
+
+![](http://instructionsforhumans.com/images/transcripts1.jpg)
 
 ## Conversation, 21st September
 
