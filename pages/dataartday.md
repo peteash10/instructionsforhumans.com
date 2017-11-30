@@ -106,6 +106,14 @@ Hannah, Nikki and Kruse gave short talks about their work and work they admired.
 
 ![](http://instructionsforhumans.com/images/dataartday00003.jpg)
 
+![](http://instructionsforhumans.com/images/dataartday00005.jpg)
+
+![](http://instructionsforhumans.com/images/dataartday00008.jpg)
+
+![](http://instructionsforhumans.com/images/dataartday00010.jpg)
+
 ![](http://instructionsforhumans.com/images/dataartday00004.jpg)
+
+![](http://instructionsforhumans.com/images/dataartday00009.jpg)
 
 ![](http://instructionsforhumans.com/images/dataartday00007.jpg)
