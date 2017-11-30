@@ -85,6 +85,7 @@ Hannah, Nikki and Kruse gave short talks about their work and work they admired.
 -	Also mentioned:
 	- [Donna Haraway, Staying with the Trouble: Making Kin in the Cthulucene](https://www.dukeupress.edu/staying-with-the-trouble)
 	- [Genevieve Bell](https://en.wikipedia.org/wiki/Genevieve_Bell)
+		- [The Boyer Lectures](http://www.abc.net.au/radionational/programs/boyerlectures/)
 		- "I worry that, in our current focus on the digital, we have lost some of our agency and some of our sense of what being human might mean. But I don’t believe this is inevitable or irreversible." [via](https://www.theguardian.com/commentisfree/2017/oct/24/in-our-focus-on-the-digital-have-we-lost-our-sense-of-what-being-human-means) 
 
 **[Kruse](https://susankruse.blogspot.co.uk)**
