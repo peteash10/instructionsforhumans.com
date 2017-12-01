@@ -46,11 +46,11 @@ Conversations with the artist are recorded because the artist has a terrible mem
 [The transcripts are archived online here.](http://instructionsforhumans.com/transcripts/)
 
 
+![](http://instructionsforhumans.com/images/transcripts4.jpg)
+
 ![](http://instructionsforhumans.com/images/transcripts1.jpg)
 
 ![](http://instructionsforhumans.com/images/transcripts2.jpg)
-
-![](http://instructionsforhumans.com/images/transcripts3.jpg)
 
 *****
 

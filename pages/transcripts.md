@@ -4,7 +4,7 @@ title: Transcripts of Humans
 permalink: /transcripts/
 ---
 
-![](http://instructionsforhumans.com/images/transcripts4.jpg)
+![](http://instructionsforhumans.com/images/transcripts5.jpg)
 
 Conversations between the artist and visitors to the gallery are sometimes recorded. 
 
