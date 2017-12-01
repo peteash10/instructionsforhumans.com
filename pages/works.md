@@ -7,6 +7,15 @@ category: menu
 
 The Instruction Station takes in data and information from visitors, weights this with the biases of the artist and produces works which are presented as art. Here are some of them. 
 
+# The Black Box
+
+The Black Box spits out a piece of paper on average once a minute. On this paper are "instructions" in text and visual form. The visitor is invited to take a piece of paper that resonates with them and use it in whatever way they see fit. 
+
+The Black Box references [black box systems](https://en.wikipedia.org/wiki/Black_box) "which can be viewed in terms of their inputs and outputs without any knowledge of its internal workings."
+
+![](http://instructionsforhumans.com/images/blackbox1.jpg)
+
+
 # Data Cult
 
 [Data Cult - An Instructional Event for Humans](http://instructionsforhumans.com/datacult/) consisted of two new performances presented to the public on Monday November 6th 2017 by Emily Warner and Alex Wojtulewicz. Documentation of the performances will be treated as artistic material for the creation of further works. 
