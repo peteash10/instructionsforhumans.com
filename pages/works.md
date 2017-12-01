@@ -15,6 +15,7 @@ The Black Box references [black box systems](https://en.wikipedia.org/wiki/Black
 
 ![](http://instructionsforhumans.com/images/blackbox1.jpg)
 
+![](http://instructionsforhumans.com/images/blackbox2.gif)
 
 # Data Cult
 
