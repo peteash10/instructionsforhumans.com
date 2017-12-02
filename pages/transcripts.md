@@ -12399,3 +12399,631 @@ Pete tells visitors to stay in touch. Visitor 2 says “yeah”.
 23:44	  
 There is more thanking and then goodbye
 
+## Conversation, November 30th
+
+00:07	
+Pete says Visitor can sit on the sofa if they want.
+
+00:14	
+Visitor says the issues surrounding surveillance have nothing to do with technology and everything to do with human behaviour. Pete says this is what’s interesting.
+
+00:30	
+Visitor says they live in a remote village in the north of Spain of about 250 permanent residents. Many of the houses are people’s second homes who have inherited them, sometimes going three or four generations back.
+
+00:58	
+These second homes are links back to their grandparents. Pete asks if these are all Brits. Visitor says there are some Brits there, but primarily it’s a rural area based on dairy farming.
+
+01:30	
+In the late 1900s the village had a population of 3200 people, which became 250 people today. There are barns in the area, Visitor says and says they live in an old farmhouse. Cows were kept on the ground floor and family used to live on the first floor, foodstuff was stored in the roof.
+
+02:15	
+Visitor says the people in the village know what they are going to do before they do it. It’s not surveillance, but it’s word of mouth or telephone. Visitor says there’s now a village Facebook page.
+
+02:46	
+Visitor says that last week he was in a local bar at noon when a woman told them Charlie’s dead. Charlie had died in the city, an hour’s drive away. Within an hour after Charlie had died, the whole village had heard of the death.
+
+03:23	
+Visitor says again, that’s not surveillance. Pete says there is a term for that. Visitor says that some people can find that intrusive. 
+
+03:33	
+Pete tells Visitor the term for that is sousveillance. Surveillance is from above, sousveillance is from below. Pete says he’s not sure how the word is pronounced. It can be a positive thing, but it can also be the kind of self policing situation, where everyone is watching everyone else.
+
+04:00	
+Visitor says another incident is that about two or three months ago, a white van was seen in a remote part of the village. Someone called someone about this van. Within fifteen minutes the Guardia Civil had turned up. Visitor laughs. Armed force, they explain, en masse.
+
+04:22	
+It turned out to be a legitimate van associated with some company doing work. Okay? Visitor asks. Pete replies, yeah.
+
+04:30	
+Visitor says in terms of security it can be a positive thing. Pete says, curtain twitchers, yeah.
+
+04:44	
+Visitor says, everyone there knows everyone else’s family and their history. Visitor says this is also due to the Spanish nature and attitude, family and lineage is very important for them. Everyone has a relation living somewhere in the village. A second or third cousin etc.
+
+05:26	
+People like to talk about relations, and who is really related to whom. This can be a source of argument.
+
+05:42	
+Pete says there are a few things he’s been thinking about that relate to what Visitor is talking about. Pete is interested in where the power lies in this stuff.
+
+05:58	
+Pete says what Visitor is talking about is a community keeping tabs on itself. Systems of control are also systems of bonding and relation.
+
+06:13	
+In a city like Birmingham one gives up certain freedoms, one accepts that one will be monitored in some way. In return one gets to go to the shops without being shot. One can drive with the reasonable certainty that one isn’t going to be run off the road, as everyone is being monitored.
+
+06:37	
+There is that kind of social contract/compact. 
+
+06:44	
+Pete says he’s forgotten what the other thing he thought of was.
+
+06:50	
+Pete says things are dangerous when the power is unbalanced. For example, with the Snowden revelations or the way online activity is being centralized.
+
+07:03	
+Amazon looking at a person’s online activity and then recommending them more stuff isn’t in itself a bad thing. The problem occurs when Amazon is the only shop, and they also own the web infrastructure that the small companies use.
+
+07:19	
+Pete says, when Google is the only search engine, or Facebook is the only social network; all that stuff gets centralized. 
+
+07:25	
+Pete says he doesn’t think these companies know what to do with all this information. Visitor says that the technology is advancing faster than humanity’s ability to understand it. Pete says yeah.
+
+07:33	
+Pete says these companies are being tripped up by the Russia stuff. Pete says he thinks Russia would like us to think they are able to have more influence than they actually have, but he can’t be sure.
+
+07:50	
+Pete tells Visitor about the new Apple OS High Sierra bug, that allows machines to be easily root controlled. It’s fixable, he says, but the fact that it got through all their checks is a testament to how complex these systems have become and how human error can lead to serious problems.
+
+08:12	
+Pete says it’s the old adage that if one is seeing something that looks like a conspiracy it’s just as likely to be the result of incompetence.
+
+08:22	
+Visitor says they think there are very few real conspiracies the in the world.
+
+08:24	
+Pete says, the very act of centralizing the power, even if that power is not being exploited maliciously is dangerous. This is what concerns Pete.
+
+08:40	
+Whereas the village stuff is fine unless the village is full of Nazis or something. Or if there is a charismatic landowner who becomes evil. Visitor says, no there isn’t. Pete says that’s when you get into Wicker Man territory, with sousveillance.
+
+09:05	
+Generally speaking, that’s how small communities stay together and tick over.
+
+09:20	
+Visitor says there are disputes between various people. Visitor says they only recently realised two couples they like drinking with are not speaking to each other. Pete laughs. Visitor says it took them a few months to realise this.
+
+09:43	
+Pete says, even that sort of polices itself. People know they aren’t speaking to each other, so they make sure there are enough tables to accommodate that. We’ll seat these people over here and those over there. It’s a self policing system.
+
+09:57	
+Visitor says that’s observational behaviour rather than intrinsic surveillance.
+
+10:04	
+Pete says the issue there is a stranger entering that world. Pete says he’s assuming that when Brits move in they bring money into the area. What is he hedging around, Pete asks himself.
+
+10:22	
+There’s a village norm, and if something comes along to threaten the norm, that can be a barrier to change. Communities are always like that, both welcoming and excluding.
+
+10:42	
+In order to be a bonded community, you build a wall to keep people in but it also keeps people out. One sees this with friendship groups, cities, countries, families.
+
+10:58	
+Visitor says, speaking of walls and barriers, this is how they ended up living in the Spanish village.
+
+11:05	
+In the early 70s British cavers went out the Cantabrian mountains, it’s a limestone area in Spain, full of caves. 
+
+11:33	
+A local Cantabrian geographer and caver set the Brits up with a guidebook etc.
+
+11:47	
+Nowadays 8 of the houses in the village are owned by Brits. In the early days, Brits used to camp in the local woods. Visitor tells Pete to imagine a bunch of hairy monsters, drunk as lords, setting up camp in Cannon Hill Park. Then going off caving all day.
+
+12:14	
+Visitor says this shows how obliging the villagers were.
+
+12:20	
+There are now 3rd generation Brits over there, who speak fluent Spanish, every summer they’d play with the Spanish children. Visitor says the community in this village is very different from the sort you’d usually find in southern Spain.
+
+12:48	
+Over the years they’ve been accepted into the community, says Visitor.
+
+13:05	
+Visitor says the locals back in the 70s spoke no English, the majority of them still don’t. This meant the cavers had to speak their dodgy Spanish to get anywhere.
+
+13:35	
+Visitor says a couple of years ago they made a film about the history of the cavers’ exploration. In the film the villagers said the Brits were just normal neighbours.
+
+13:50	
+Visitor says there are some very rich people in the village, lawyers and monied families etc. These rich people invite local farm labourers to barbecues. There’s very little class or education or monetary distinction. People aren’t ostentatious.
+
+14:30	
+Visitor says the local radiologist drives a Discovery, but they play dominoes with the retired baker.
+
+14:42	
+When it’s is heard that people are doing or saying things in the village, it’s not a matter of status. It’s more about whether that person is a good or bad person. Or whether their actions have been good or bad. This is different from the general attitude… Pete says, it doesn’t have that feudal feel.
+
+15:22	
+Unlike data surveillance, says Visitor, these are face to face interactions with people you know. Either I like you, or I don’t like you, says Visitor, that’s the basis on which judgements are made.
+
+15:40	
+Visitor says they’ve never been asked what they do for a living. Visitor says when they are introduced to new people in the UK they are asked “what do you do, where have you come from”. People are probing one’s materialistic background rather than who one is as a person. Pete says we don’t have the language for that, for some reason.
+
+16:13	
+Visitor says, the Spanish don’t have a language for asking you who you are or what you are. They just ask, would you like a drink, come and join us. Pete says, and then they find out who you are.
+
+16:25	
+Pete says, yeah. The English are weird; but that’s a whole work in itself.
+
+16:35	
+Pete says, that’s really interesting. He’ll have to process all that. Visitor says, we are all under sousveillance indirectly, where they are living they are being observed.
+
+17:04	
+Pete asks Visitor if they are familiar with the term Dunbar Number. It’s the number of humans that people can deal with as individuals.
+
+17:21	
+Humans evolved in relatively small communities of up to 100. The number is between 150-200 people. This is the number of people one can deal with as a person and not just as an other. This is why people don’t talk to each other on the tube, they can’t deal with people as human beings, they are just stuff.
+
+17:53	
+Maybe this explains, why things are different with Visitor’s small village, and why places like that manage to map and understand themselves. The number of inhabitants makes that feasible. 
+
+18:15	
+In a city like Birmingham one’s community is more distributed. Pete knows people in his local area, but doesn’t know his neighbours. He does know a person living 10 streets away really well, and knows someone on the other side of Birmingham really well.
+
+18:42	
+Pete’s community isn’t geographically tight knit.
+
+18:55	
+Visitor says they first moved to Birmingham from London in the 60s, they worked in construction when the centre of the city was being knocked down; Nechells area. Their girlfriend was at the College of Art.
+
+19:10	
+Visitor says they were involved in building Castle Vale, Chelmsley Wood etc.
+
+19:26	
+Visitor says the city architect at the time… Visitor can’t recall the name. Pete says, “Manzoni. Manzoni?” Visitor replies, “No. Not Manzoni”. Pete says, “John Maiden(sp?)?”. Visitor says, it could have been.
+
+19:39	
+Pete says “Did the Central Library”. Visitor replies, “No. Cos this guy was up for corruption”. Pete says “oh. Manzoni did the ring road and stuff”.
+
+19:50	
+They leave the topic of architects.
+
+19:52	
+Visitor says, what they are trying to tell Pete about is about knowledge and information.
+
+20:00	
+Visitor says back when they worked in construction there were a few major contractors, Brights/Bryants?, George Stubbins?, etc. who did work for the council.
+
+20:17	
+There were a couple of nightclubs; one down at Gas Street Basin, it was famous, says Visitor, they had a couple of gambling tables.
+
+20:34	
+Visitor says the workers would know by 09:00 that the director of one of the companies had taken the city architect out and done something that is unclear in the recording. The information spread quickly.
+
+21:00	
+The companies lorry drivers spread the word, they were the gossip network across various site all over Birmingham.
+
+21:30	
+Pete says you couldn’t track it… Visitor says, no they couldn’t track the sources. 
+
+21:36	
+Visitor says it also gave the workers a sense of community. Visitor says they were training to become a chartered builder and later had meetings with city architects and trade UCAT union leaders.
+
+22:27	
+Being in the information loop gave one a sense of community.
+
+23:03	
+Pete says there’s a phrase, fear of missing out; which is the reason people are always checking Facebook and Twitter, they don’t want to miss out. There might be information they are missing out on, which might lead to a cascade of missed information.
+
+23:21	
+Visitor says it was nothing like that in 60s. Pete says, but then at the same time Visitor if they didn’t chat with the truck driver, they’d miss out.
+
+23:32	
+Visitor says it’s basic human behaviour. We need to know what’s going on. Many of us, maybe not all. This needing to know allows us to be part of that network.
+
+24:00	
+Visitor says when they returned to Birmingham in the 80s to work at the polytechnic in the construction department doors opened for them, as they’d had prior experience.
+
+24:22	
+Visitor says they started working with the British Council, they got money from various sources and worked with video and learning resources. This is how Visitor got into the arts. They worked with video, but more on a training and information basis.
+
+24:45	
+Visitor says they got into another level of community, interviewing important members of the Council, construction people and union persons. They were also involved in various professional networks eg. land surveyors. Visitor was secretary of the Birmingham something or other (unclear -K.C.).
+
+25:27	
+Visitor says they were involved in the local community. There are various levels of community operating.
+
+25:47	
+Visitor says data surveillance right now is only happening on one level. There are no shades of grey in it. Pete asks “how do you mean?” He tells Visitor, he’s going to put the fire on. His legs are cold.
+
+26:01	
+Pete says he’s interested in what Visitor means by that. Visitor says they are exploring it right now.
+
+26:10	
+Pete moves some things around. Visitor says this is what they do in their office, they put their electric heater underneath the desk. Pete says he hasn’t been bothered by the cold until this week.
+
+26:27	
+Visitor says when they have human interaction, like the one they are currently having with Pete, they can grasp shades of subtlety. Pete says, oh, right, yes.
+
+26:37	
+Visitor says they can tell if Pete is looking at them, or responding to them. At times it’s positive at times negative. That’s normal.
+
+26:50	
+If there’s a database making a response, as with the Amazon suggestions. Visitor says, they go to book a hotel and before they know it they are being flooded with hotel adverts.
+
+27:07	
+Visitor says it’s just a pavlovian response. Pete says, he refers to this as context collapse.
+
+27:19	
+Pete says he can say a sentence to Visitor, the context is the space they are in, the tone of voice and body language. If he types those words out and sends them in a text message or on a piece of paper then all that context has disappeared; it’s collapsed out.
+
+27:35	
+Visitor takes the abstraction of what Pete’s said, and has to add context back in. Pete says there’s a lot of that happening in this show, the shapes, and the text over there.
+
+27:47	
+Pete says, that’s him trying to deal with the idea of the machine producing things that are context and meaningless.
+
+28:03	
+If you read something a machine has produced and it makes sense to you, it’s not a case of the machine making sense; it’s a case of the reader making sense out of it.
+
+28:09	
+Visitor says one example where this is not at all true is a person who produces words with no meaning, the president of the United States. Pete says, let’s not bring that in.
+
+28:29	
+Pete says, well, he’s abstracted. He abstracts himself. We don’t know what’s going on in that head and never will. In many ways he’s mastered the art of abstracting the brand… Twitter works perfectly for him, it’s that lack of nuance/context.
+
+29:00	
+What he has to say is not up for nuanced debate. Pete and Visitor agree that the president is a product of reality tv and technology.
+
+29:30	
+Pete says what matters to him is that he reaches his base of supporters, he’s mediated, contextless, this lends itself to this totalitarian approach to things. 
+
+29:50	
+Pete says he’s never sure whether the president is a totalitarian or if it’s just that what he does happens to look a lot like totalitarianism.
+
+30:00	
+Visitor says it comes from how he runs his companies. Nobody has crossed him, if they did they got fired. In those terms, he is totalitarian. Pete says, it’s a conundrum.
+
+30:25	
+Back to technology. Visitor says CCTV cameras record images or data is being analysed and there’s no nuance.
+
+30:42	
+Pete says he’s in a tricky situation. He’s always used zines and blogs as a way of connecting up the world in different ways.
+
+30:55	
+It was a way of bypassing the establishment, the top down system. Pete says he found that the Internet was great for breaking down hierarchies.
+
+31:30	
+Pete says that MP and now deputy leader of the Labour Party, Tom Watson was an early Twitter user. Pete had conversations with him, which was an astonishing thing to be able to do.
+
+31:42	
+What’s more is that Pete was conversing with Watson outside the usual frameworks of MP surgeries or letter writing. There are issues around that of course, Pete adds, there is a privilege there.
+
+32:06	
+Pete says the flip side to that is all this fake news stuff, and filter bubbles. Pete says in some way he was part of the emergence of these things; bypassing the mainstream was something Pete had been very enthusiastic about. At the time it had been very necessary.
+
+32:28	
+This is what zines were for Pete. If you take the history of Riot grrrl zines, that was about bypassing Rolling Stone magazine and the mainstream, male dominated music press and creating their own media.
+
+32:45	
+Pete says that idea has been taken up by the right wing, particularly in the U.S., but also can be seen with Brexit. Extreme opinions are now borderline mainstream, because they’ve been able to exist in pockets of self reinforcement.
+
+33:04	
+On the one hand tech rewires the world in interesting ways, but on the other hand it’s possible that human nature comes in and solidifies that rewiring into the old system, only in a different way. 
+
+33:19	
+There is a pause. Pete says, maybe that’s an oversimplification of the end of an epoch and it’s neoliberalism that’s dying. But that’s a different thing altogether.
+
+33:30	
+Visitor wonders if neoliberalism ever really existed in the first place.
+
+33:40	
+Visitor says in the 60s, a lot of the construction labour force he was a part of was Irish, and some were from the Caribbean. The amount of open racism was unbelievable, says Visitor. Visitor gives a couple of examples of the epithets used. 
+
+34:05	
+Visitor says that didn’t stop people from just getting on with their work. That’s a form of liberalism. Those people are allowed to express themselves. That wouldn’t be permitted these days, says Visitor. Visitor says they don’t think it should be allowed.
+
+34:28	
+Back then it was taken as part of everyday life and was accepted.
+
+34:40	
+Visitor mentions Alf Garnet. Pete says Alf Garnet is a fascinating example.
+
+34:47	
+The way Alf Garnet became a hero for the very people the programme was criticising is fascinating, says Pete. It’s like the Loadsamoney thing in the 80s, that was supposed to be taking the piss out of conspicuous consumption, but he became a hero character.
+
+35:05	
+It’s a great example of how one loses control over the meaning of one’s work, when one puts it out into the world. Context is up to the viewer, it’s all happening in their heads.
+
+35:20	
+Visitor says, when you throw an image up online, you immediately lose control of it. Pete replies completely. Visitor says anyone can do anything with it.
+
+35:35	
+Pete says there’s this phenomenon of a picture plus a caption. People will believe... 
+
+35:45	
+Maybe younger people are better at this, Pete doesn’t know but people who’ve been brought up on pre-approved media that’s gone through various checks and balances. The BBC is an example of this.
+
+36:06	
+Pete says his wife used to be a sub editor, before newspapers decided they were no longer necessary, and she is trained to fact check. If someone writes a story part of her job is to check if it’s true, and can be printed.
+
+36:26	
+Newspaper of record, type thing, is what Pete’s talking about. “To the best of our knowledge this is what happened” and it’s presented in a fair and balanced way.
+
+36:40	
+Pete says, obviously therein lies all sorts of institutional biases. But you know that if you see picture of something with a caption above/below, you can be reasonably sure that the caption is telling you, correctly, what that something is.
+
+36:58	
+The public has been trained to accept that. Visitor says, yes. But now if you see a picture with a caption underneath it and a logo in the corner, people are primed to believe that what they are seeing actually occurred.
+
+37:10	
+This is especially true if it’s coming from a source that sends you things you agree with. Visitor says, it reinforces one’s preconceptions, and laughs.
+
+37:24	
+Pete says, it’s because our human brains can’t process everything. Pete says, he comes from a photography background and is interested in how incredibly misleading and inaccurate photos can be.
+
+37:40	
+Visitor says “and always have been!” Pete repeats “and always have been”, then continues, we have this idea that the camera never lies.
+
+37:46	
+Pete says he thinks the way cameras work mimics the way our brains process visual data. Humans take in information via our senses, but we discard most of that data and keep very little of it.
+
+38:19	
+Pete says he remembers talking to students about different sorts of focusing, and then realising that when we talk about focus, we are talking in the same way.
+
+38:31	
+The world doesn’t really look the way a narrow depth of field photo presents it to us, but the world does feel like that. Pete says when a person concentrates on one thing, it feels as though everything else becomes blurry, when in fact the background is still pretty much in focus.
+
+38:50	
+Humans perceive the world in an abstracted way, but have the idea that we are seeing everything. “I was there, I saw it.” Pete says, no you saw “that, and you remembered “that”. He laughs.
+
+39:13	
+That’s why eyewitnesses on their own are useless, Pete says. What a good detective will do is look for where statements overlap. What are the things everyone agree on.
+
+39:30	
+Pete says humans have this delusion that we… He says he’s forgotten where the conversation started.
+
+39:40	
+Humans have a delusion that we see well, when we don’t. So when we see a mediated thing, that matches the way our brains work it seems plausible to us.
+
+39:53	
+Visitor says, not only are we mediated in a rational sense, but also in an emotional sense. Visitor says they wake up happy or sad, and that feeling will influence the way they perceive the things that happen during the day.
+
+40:17	
+The events of the day become mediated by one’s emotions, this is something Visitor says we don’t at all take into consideration. Pete says, no, definitely not.
+
+40:27	
+Pete says, this is a slight tangent, but he had a fascinating insight from a cognitive scientist, he thinks. It was at least a person who was looking at consciousness.
+
+40:38	
+Pete explains that data processing is often called Artificial Intelligence, which attracts cognitive scientists, saying that the term intelligence is not being used correctly.
+
+40:47	
+Pete says this person was telling him that consciousness doesn’t necessarily reside in the brain. In many ways it resides in the gut, in the biome.
+
+41:00	
+Visitor says “gut feeling!”. Pete says, obviously a gut feeling is when you get a tight like… but the microbes that live inside us are separate organisms, they aren’t part of us, send signals that affect our behaviour and mood.
+
+41:25	
+The stuff in one’s gut can determine one’s mood. 
+
+41:27	
+Pete says “which is just… is just really… And it’s not the food you’ve eaten.” Visitor says, no, no, no. Pete says, it’s the stuff that’s processing the food. Visitor says, they’ll accept that even though they don’t understand it.
+
+41:40	
+Pete says there’s this idea of a collective consciousness applies, at least within our skin; or even on our skin. All these separate creatures are communicating; have this psychic link. It’s just a mind fuck really.
+
+42:02	
+Pete says he’s drifting now.
+
+42:08	
+Visitor says, this has gone a long, long way away from setting up a surveillance camera, this has nothing to do with the issues at hand. 
+
+42:24	
+Pete says tech is interesting as it accelerates everything. And as with the network of truckers, you are aware of the presence of tech. You couldn’t trace one piece of information back to a specific trucker, whereas with tech, you can trace the breadcrumb trail.
+
+42:50	
+Pete says this gives one a model for looking at the trucker network. The Facebook groups of local communities can be mapped. 
+
+43:08	
+It’s not necessarily a good thing that they are mapped, it can break the community as it makes the members of the group self conscious and aware of their behaviour. The awareness that one is being tracked can be paralysing.
+
+43:25	
+Pete says, recently WhatsApp group chats have been used in Parliament to have private conversations. Pete says junior female staff have been telling each other who to watch out for.
+
+43:44	
+Pete tells Visitor that these chats have become evidence, but they can’t be released, as they are private. Pete says there’s a semi-transparency there.
+
+43:59	
+Pete says WhatsApp uses end-to-end encryption, so only people who take part in the chat can see the chat. WhatsApp is owned by Facebook, who can’t read the traffic.
+
+44:14	
+Pete says, all that is required is that a person get hold of one of the phones involved in the chat, the history will be visible there.
+
+44:20	
+Security becomes a matter for the individuals involved in the chat, which is not necessarily a bad thing.
+
+44:25	
+Facebook messenger or other non-encrypted things can be used by the company to mine data. One talks about buying a new drill using Facebook messenger, and the next thing you know you are seeing adverts for drills all over the place.
+
+44:44	
+You can see that connections are being mapped. Pete says, this is the sort of metadata the NSA were looking at in the Snowden cases to make connections between persons of interest.
+
+45:03	
+That brings in a chilling effect, it makes one possibly not have certain conversations with anyone on the phone, or online.
+
+45:13	
+Pete says he has to double check this with the East Germany stuff, but what had an effect of people’s behaviour was the threat of being listened to, rather than the fact of being listened to.
+
+45:32	
+Visitor says, yes. It’s the fear of it. Pete says it’s Bentham’s Panopticon idea of, they might be watching me at any point in time.
+
+45:42	
+Pete says, it’s like with the black CCTV blobs where you can’t tell which way the camera’s pointing. Effectively, it might as well be looking in all directions.
+
+46:00	
+Visitor says they were on a university exchange visit to what was at the time called Czechoslovakia prior to the revolution. Visitor says they were talking to lecturers and ordinary people about surveillance systems.
+
+46:32	
+Visitor says that everyone admitted they were being watched and listened to, but they didn’t care.
+
+46:47	
+Visitor says they were hosted by the chief architect in Prague and assigned an interpreter who told them it was necessary to bribe the housing official to get better accommodation. 
+
+47:11	
+Visitor says, this was openly discussed. Pete says “mmm”. Visitor says, the interpreter knew that standing over there was a member of the Communist Party, Visitor laughs. Pete says, yeah, it’s an open secret.
+
+47:26	
+Visitor says it didn’t surprise them when it all fell apart, the emperor had no clothes. Pete says “mmm”. Visitor says that the society had recognised that.
+
+47:39	
+Pete asks Visitor which year this was. Visitor replies, 89. Pete says, right, yep. Visitor says this was about six months before it all started to fall apart.
+
+48:02	
+Visitor says their interpreter told them they got their job by bribing various officials. Pete says, yeah, cos it’s on the edge of falling apart.
+
+48:21	
+Pete says, he had a visitor in… he thinks they were from Poland, it’s on the transcript somewhere, he adds.
+
+48:38	
+It’s something like that in this Eastern European country (It was Romania - K.C.) people are just quite open about the surveillance. They know they are being watched, they know Facebook is being read and they don’t care.
+
+48:49	
+He asked the visitor if that’s a hangover from the Communist era, they replied no, that’s capitalism.
+
+48:55	
+Pete says he didn’t want to judge it too much, because maybe that’s true, maybe that’s a new thing. But Pete thinks it could be a historical culture of acceptance. In Western Europe we have this delusion that we have the right to privacy.
+
+49:12	
+Whereas in former Communist countries understand there’s no right to privacy. The people living the the Spanish village understand there’s no right to privacy.
+
+49:18	
+Visitor says in their community, there’s no such thing as privacy. Pete says, no. (Pointless note here, Pete pronounces it prive-a-cy (as in deprive), while Visitor pronounces it priv-a-cy (as in privy) - K.C.)
+
+49:23	
+Visitor says, the people in their village can’t see it as a privacy issue. Pete says, yeah, of course everyone knows what everyone else is up to, that’s what holds the community together.
+
+49:39	
+Pete says in his family there was a closed door policy, in other families one doesn’t close one’s door. These things operate on a family, community, city, country level.
+
+49:53	
+Pete says it’s interesting how different cultures decide on their boundaries on this stuff.
+
+50:01	
+Pete says he’s been working with some Austrian artists over this past year who are horrified by the amount of camera surveillance in the U.K.
+
+50:11	
+Pete says, there is a camera in the gallery here. The Austrians would be like “what?! Why would you… what is that all about.”
+
+50:17	
+In Austria they have a few cameras in specific places for specific purposes; but they don’t have this blanket camera coverage we are used to.
+
+50:34	
+Pete says in Linz, the 3rd largest city, people leave their doors open. He was on a residency at a gallery where the doors were left open, with no one to man them. There were projectors and TV screens in the gallery, someone could easily have walked in and taken the whole lot. But nobody did.
+
+50:59	
+So… It’s, yeah. Pete sighs. “Different cultures are different, that’s the obvious thing.” He says it’s interesting to see where the differences lie and to ponder how things came to be that way.
+
+51:18	
+Pete says, Austria is not a perfect place; they have a massive Nazi problem hiding in the bushes. Nowhere is perfect.
+
+51:27	
+Pete wanted to know how they reached that point where they have avoided developing this culture that we have.
+
+51:46	
+Visitor says in their local city ? they don’t think there are any surveillance cameras anywhere. It’s quite a big city, Visitor doesn’t see the need for them there as there’s no crime on the streets.
+
+52:07	
+No muggings, assaults. Stuff happens within in the home. Pete says, yeah, there are issues. Visitor says, domestic violence and machismo society are big issues.
+
+52:24	
+Visitor tells Pete that a young woman can walk through the streets of Santander (Ok, there is a city called Santander in Spain. I thought it was the bank they were on about. That’s how much I know. - K.C.) at 03:00, no problem whatsoever. Pete says “mmm”.
+
+52:38	
+There is a short pause. Pete says, “yeah. But if they marry some nice young guy, they are probably going to get the...” he laughs. Visitor says, it’s ironic isn’t it?.
+
+52:50	
+Pete says it’s swings and roundabouts.
+
+52:55	
+Pete says, Cool. Tells Visitor that they have filled his brain up no end, and thanks them.
+
+53:03	
+Pete says he’ll send the recording off to the transcriber who’ll put it on the final iteration. Visitor says they hope they made some sense, and laughs.
+
+53:20	
+Pete says he’s going to need a bigger wall, he might have to go up on to the roof. 
+
+53:27	
+Pete says he’s going to publish this at the end. Visitor says “oh, right”. Pete says it started as a way of doing a memory jog, as he has a terrible memory.
+
+53:39	
+Pete shows Visitor the ”relatively smaller version”. This is going to be a print on demand book, he tells Visitor. Visitor says, that’s good.
+
+53:58	
+“Cool”, Pete says.
+
+54:05	
+Visitor says one of the things they noticed about Pete is that he is thinking about what he’s going to do when the show is over. Pete laughs. Visitor says, will Pete continue to be in the art thing, or… Is that an ongoing debate he’s having with himself, asks Visitor.
+
+54:18	
+Pete says art, for him is a means to an end, as is everything. Pete’s not sure what that end is.
+
+54:24	
+Pete says he has a kinda philosophical approach to art. Art helps Pete to do philosophy in a practical way. About halfway through the show, Pete wasn’t sure if it was working, for him. He chuckles.
+
+54:40	
+Visitor says that happens with most projects. Pete says, he knows that it’s perfectly normal.
+
+54:47	
+Pete says he’s still in the middle of the show, and is unsure as to the exact details, but over Christmas he’ll be fleshing out some plans.
+
+55:00	
+He’d like to develop the cell tower stuff and the cargo cult thing, also the conversations and that kind of teaching/explaining as an art practice maybe… there are a few things he needs to discuss with his mentors.
+
+55:21	
+Visitor says Pete is combining the digital/technological stuff with a form of performance. Pete says, yes. It’s definitely a performance. Visitor says they are both performing now, in a way.
+
+55:36	
+Pete says, to an audience of one. Visitor says it’s will be recorded and turned into writing, or whatever, therefore there will be documentation of the performance. Pete says, this is, in someways, a script. Visitor says, yes, there you go.
+
+55:53	
+Pete says, you could see these transcripts as instructions for a performance. There’s something there. There’s lots of things. Pete says he needs to get some distance on it.
+
+58:03	
+Pete says he’s used computers because his handwriting was terrible and he learned to communicate via typing rather than writing by hand. There’s been an assumption that Pete is a computer artist, as all his art is communicated using computers. He is a digital photographer, rather than an analogue photographer.
+
+56:37	
+This year Pete has been more aware that technology is a means to an end for him. He’s not a programmer or a computer artist. He’s an artist that... Visitor says “uses”; Pete says “uses technology in the same that I might use a saw, or, you know, any other form of tech.”
+
+56:55	
+Pete tells Visitor, he’s looking at branching out in the technology he uses. He says he’s been mucking about with carpentry a bit.
+
+57:04	
+Pete says his wooden sculpture is deliberately crude, but he can, in fact, do joints. Visitor tells Pete that he ought to see some of their stuff, they make pots, and he should see how crude they are, at times.
+
+57:14	
+Pete says he wants to think about carpentry in the same way he thinks about using computers. Using them to manifest something.
+
+57:25	
+Pete tells Visitor he has lots of things to think about over Christmas. Visitor says, they are glad about that; when one has nothing to think about… Pete growl/exhales, that’s when serious issues start coming up, Visitor continues.
+
+57:35	
+Pete says it’s never the case that he has nothing to think about. “Oh no. Never, have nothing. I dream of having nothing to think about sometimes.”
+
+57:43	
+Pete thanks Visitor and checks he has their name right. He has in fact remembered correctly. “That’s pretty good for me”, he laughs.
+
+57:51	
+Visitor says they’ll be doing the rounds tomorrow evening, it’s Digbeth First Friday tomorrow.
+
+57:57	
+Pete says he’s going to see Sam Underwood or there’s an album launch for Doom Tuba. Visitor says, is there? They don’t know exactly what’s on, but they’ll be around. 
+
+58:09	
+Pete says he’s definitely going to be down for that. He thinks there’ll be a few other things of interest happening. He says it’s the one day a month he ticks his socialising-with-peers box, then he can retire to his hovel for the rest of the month.
+
+58:23	
+Visitor says, all the best. Pete says goodbye.
