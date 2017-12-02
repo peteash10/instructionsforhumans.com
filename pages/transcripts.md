@@ -20,7 +20,7 @@ Gallery visitors are invited discuss these transcripts with the artist. The tran
 
 *Transcripts by Karen Cameron*  
 21st September to 29th November 2017  
-135,000 words
+141,000 words
 
 ![](http://instructionsforhumans.com/images/transcripts1.jpg)
 
