@@ -37,8 +37,6 @@ Inspired by [a photo from Puerto Rico post-hurricane](https://www.theatlantic.co
 
 This connected with my interest in the post-WWII [cargo cults](https://en.wikipedia.org/wiki/Cargo_cult) of the South Pacific and the [gestures and rituals](http://curiousrituals.nearfuturelaboratory.com) that have emerged during the Internet age. 
 
-Will be used for a ritual event on Saturday 9th December by [Hipkiss and Graney](https://www.hipkissandgraney.com). 
-
 ![](http://instructionsforhumans.com/images/celltower4.jpg)
 
 ![](http://instructionsforhumans.com/images/celltower2.jpg)

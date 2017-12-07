@@ -17,25 +17,9 @@ To stay informed and be reminded of events happening for Instructions For Humans
 
 ![](http://instructionsforhumans.com/images/celltower3_500.jpg)
 
-By now we should know what "a [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) for AI" looks like. I’ll be revisiting the Data Cult performances from November and talking through the ideas that have crystallised through the exhibition. 
-
 **Saturday 9th, 1:30pm** **[Algo-Walk for Humans](http://instructionsforhumans.com/algowalk/)** sees [Andy Howlett](http://andyhowlett.co.uk) and myself leading a group of walkers on a psychogeographic journey of the mobile phone masts of Birmingham city centre. At each mast you will be asked to engage with the City Perception Algorithm (working title) and to measure how your city differs from your fellow explorers. [More information and booking details.](http://instructionsforhumans.com/algowalk/)
 
-**Saturday 9th, 4pm** Local artists [Hipkiss & Graney](https://www.hipkissandgraney.com) will perform a ritual of some description around the wooden cell tower antenna in the gallery. There may be chanting. 
 
-## The End
-
-*December 13-16*
-
-We will have spent 14 weeks art-making and discussing. I’ll be exhausted and looking forward to a rest. 
-
-But before I go, conclusions must be drawn, plans made and instructions given. 
-
-I will have something to say. 
-
-You will need to hear it. 
-
-Watch this space.
 
 # PAST EVENTS
 
