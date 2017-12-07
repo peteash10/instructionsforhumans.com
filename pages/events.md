@@ -17,7 +17,11 @@ To stay informed and be reminded of events happening for Instructions For Humans
 
 ![](http://instructionsforhumans.com/images/celltower3_500.jpg)
 
+**Postponded due to snow! New date coming soon!**
+
 **Saturday 9th, 1:30pm** **[Algo-Walk for Humans](http://instructionsforhumans.com/algowalk/)** sees [Andy Howlett](http://andyhowlett.co.uk) and myself leading a group of walkers on a psychogeographic journey of the mobile phone masts of Birmingham city centre. At each mast you will be asked to engage with the City Perception Algorithm (working title) and to measure how your city differs from your fellow explorers. [More information and booking details.](http://instructionsforhumans.com/algowalk/)
+
+**Postponded due to snow! New date coming soon!**
 
 
 

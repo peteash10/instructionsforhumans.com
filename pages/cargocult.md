@@ -1,12 +1,10 @@
-A Cargo Cult for AI
+# A Cargo Cult for AI
 
 Cargo Cult is a term used to describe activities of a religious nature that emerge in late-colonial era when societies that might be considered primitive suddenly come into contact with a society that might be considered technologically advanced. 
 
 As such the term, and the phenomena it describes, is fraught with issues, the least of which is the air of condescension it implies. Look at those idiots who can't comprehend stuff we take for granted. Aren't they hilarious with their made up religions. Aren't we superior with our rational science. 
 
-I quickly realised I needed to avoid this approach to the cargo cult. These are not idiots. They are, if anything, exhibiting a perfectly sensible and rational response to a change in their society, folding the beliefs and behaviours that bond their communities around this change to create a continuity. Or maybe something else. Who knows. 
-
-(I have printed out a tranche of academic documents written by people who claim to know, should you wish to peruse them in the gallery.)
+I quickly realised I needed to avoid this approach to the cargo cult. These are not idiots. They are, if anything, exhibiting a perfectly sensible and rational response to a change in their society, folding the beliefs and behaviours that bond their communities around this change to create a continuity. Or maybe something else. Many academics are exploring these questions.
 
 [Arthur C Clarke](https://en.wikipedia.org/wiki/Clarke%27s_three_laws) famously coined the law "Any sufficiently advanced technology is indistinguishable from magic." This betrays a rather reductive notion of what magic is and the purpose it serves in the real world. Which is a weird sentence to write, so I'd better explain my working concept of magic. 
 
