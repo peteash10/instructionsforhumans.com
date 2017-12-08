@@ -4,7 +4,7 @@ title: Algo-Walk for Humans
 permalink: /algowalk/
 ---
 
-**[Book tickets here.](https://www.eventbrite.co.uk/e/algo-walk-for-humans-tickets-40575651867)**
+**Sunday 17th December, 1:30pm. [Book tickets here.](https://www.eventbrite.co.uk/e/algo-walk-for-humans-tickets-40575651867)**
 
 ![](http://instructionsforhumans.com/images/algowalkcelltower.jpg)
 
