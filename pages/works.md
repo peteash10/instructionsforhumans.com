@@ -78,8 +78,6 @@ A box on the gallery shelves into which visitors are invited to place an idea fo
 
 *****
 
-## More to come..
 
-Artworks are created with and in response to people visiting the show. Towards the end of the run I will be specifically inviting artists to work within the space to see what they come up with. To a less formal degree this invitation is open to all. 
 
 **Instructions for Humans** is open at [BOM (Birmingham Open Media)](http://www.bom.org.uk) Wed - Sat, 12 - 5pm until December 13th. [Subscribe to this newsletter](https://tinyletter.com/peteashton) to stay informed of things. 

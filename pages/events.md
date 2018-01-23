@@ -8,17 +8,6 @@ category: menu
 To stay informed and be reminded of events happening for Instructions For Humans, and many other things besides, you're best off [subscribing to Pete's newsletter](https://tinyletter.com/peteashton).
 
 
-# FORTHCOMING EVENTS
-
-
-## Data Rituals
-
-
-![](http://instructionsforhumans.com/images/celltower3_500.jpg)
-
-**Sunday 17th December, 1:30pm** **[Algo-Walk for Humans](http://instructionsforhumans.com/algowalk/)** sees [Andy Howlett](http://andyhowlett.co.uk) and myself leading a group of walkers on a psychogeographic journey of the mobile phone masts of Birmingham city centre. At each mast you will be asked to engage with the City Perception Algorithm (working title) and to measure how your city differs from your fellow explorers. [More information and booking details.](http://instructionsforhumans.com/algowalk/)
-
-
 
 
 # PAST EVENTS

@@ -5,9 +5,10 @@ permalink: /datacult/
 ## category: menu
 ---
 
+
 ![](http://instructionsforhumans.com/images/datacult-em.jpg)
 
-**Data Cult** is a series of performances attempting to make sense of data-driven surveillance technologies and our relationship with them.
+**Data Cult** was a series of performances attempting to make sense of data-driven surveillance technologies and our relationship with them.
 
 In order to understand the intangible networks that surround us, it is sometimes useful to imagine their absence and to explore the space left behind. 
 
@@ -23,7 +24,7 @@ The framework chosen for this is the [Cargo Cult](https://en.wikipedia.org/wiki/
 
 It's my contention that these cults, being driven by the absence of a technology that had dominated and changed their society, give us a valuable tool for understanding the shape and quality of systems that are otherwise intangible and opaque. Just as the sudden absence of an air conditioner hum has a tangible nature, the absence of The Network reveals to us its salient features. 
 
-Data Cult premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on November 6th 2017. Documentation and derived artworks are archived on this page.  
+Data Cult was part of the [Instructions for Humans](http://instructionsforhumans.com) exhibition and premiered at [BOM](http://www.bom.org.uk) (Birmingham Open Media) on November 6th 2017. Documentation and derived artworks are archived on this page.  
 
 *****
 
@@ -61,10 +62,15 @@ Aleks' work was a stand-alone durtional 15 hours piece. What follows is a sepera
 
 *****
 
+## Conclusions
+
+Discussions with Emily and Aleks will take place in 2018 as part of the [Instructions for Humans](http://instructionsforhumans.com/) wrap-up. 
+
 ## Development writings 
 
 - [Blog post on working with Aleks.](http://blog.peteashton.com/art/2017/11/02/ifh029/) 
 - [Emily's development blog](https://ifhekw.tumblr.com).
+- [Echo Edit - a performance undertaken by myself in preparation.](http://art.peteashton.com/echo_edit/) 
 
 *****
 
